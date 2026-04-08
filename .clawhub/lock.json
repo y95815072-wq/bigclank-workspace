@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "security-auditor": {
+      "version": "1.0.0",
+      "installedAt": 1775368958258
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1775368975722
+    },
+    "summarize-pro": {
+      "version": "1.0.0",
+      "installedAt": 1775399695030
+    },
+    "docker-manager": {
+      "version": "1.0.2",
+      "installedAt": 1775399709974
+    },
+    "browser-automation": {
+      "version": "1.0.1",
+      "installedAt": 1775399727503
+    }
+  }
+}

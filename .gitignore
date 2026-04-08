@@ -1,0 +1,7 @@
+*.env
+*api_key*
+*token*
+*secret*
+*password*
+auth-profiles.json
+credentials/
