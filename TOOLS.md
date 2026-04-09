@@ -92,6 +92,12 @@ When Trey asks you to do something, pick the right tool:
 - Before editing config, check the schema: openclaw config get <key> to see current values first.
 - Backup exists at openclaw.json.bak. Restore with: cp ~/.openclaw/openclaw.json.bak ~/.openclaw/openclaw.json
 
+### Use Claude Code for config edits when possible
+- For complex JSON edits to openclaw.json, use Claude Code instead of editing conversationally
+- Claude Code reads the actual file, catches field name mismatches, and validates before writing
+- To use: run claude in terminal, describe the edit needed
+- This prevents the True/False, wrong key names, and broken JSON issues we've hit before
+
 ## Editing JSON Safely
 - NEVER use sed to edit JSON files. It doesn't understand JSON structure.
 - Use python3 for modifications. Always use lowercase true/false in the output.
@@ -141,3 +147,20 @@ ClawHub has had major security incidents. Over 1,400 malicious skills were found
 ### Currently installed skills:
 - security-auditor ✅ (verified)
 - github ✅ (verified, needs gh auth)
+
+## Debugging Commands
+
+# Check gateway logs
+journalctl --since "today" _PID=$(pgrep -f openclaw-gateway) -n 100 --no-pager
+
+# Check cron job statuses
+cat ~/.openclaw/cron/jobs.json | python3 -c "import json,sys; jobs=json.load(sys.stdin)['jobs']; [print(j['name'], j['state'].get('lastRunStatus'), j['state'].get('lastError','')) for j in jobs]"
+
+# Check pipeline schedule
+cat ~/.openclaw/cron/jobs.json | python3 -c "import json,sys; jobs=json.load(sys.stdin)['jobs']; [print(j['name'], '-', j['schedule']['expr']) for j in jobs]" | sort
+
+# Check model whitelist
+grep -A 20 '"models"' ~/.openclaw/openclaw. json
+
+# Gateway status
+pgrep -f openclaw-gateway && echo "Running" || echo "Not running"
