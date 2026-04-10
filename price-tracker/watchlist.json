@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "dobyns-fury-735c",
+      "name": "Dobyns Fury FR 735C Casting Rod",
+      "category": "fishing-rods",
+      "target_price": null,
+      "urls": {
+        "amazon": "https://www.amazon.com/s?k=Dobyns+Fury+735C",
+        "tackle_warehouse": "https://www.tacklewarehouse.com/Dobyns_Fury_Casting_Rods/descpage-DFC.html",
+        "walmart": "https://www.walmart.com/ip/Dobyns-Rods-735C-FH-Champion-Series-Heavy-Ex-Fast-Casting-Rod-7-3-Medium/625492706"
+      },
+      "added_date": "2026-04-07",
+      "active": true
+    }
+  ],
+  "settings": {
+    "alert_threshold_percent": 5,
+    "check_frequency": "daily",
+    "alert_channel": "telegram"
+  }
+}
