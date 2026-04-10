@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T13:30:00.441Z",
+  "updatedAt": "2026-04-10T05:00:00.401Z",
   "entries": {
     "memory:memory/2026-04-08.md:1:24": {
       "key": "memory:memory/2026-04-08.md:1:24",
@@ -2041,13 +2041,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-09T13:30:00.441Z",
+      "lastRecalledAt": "2026-04-10T05:00:00.401Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
       "recallDays": [
         "2026-04-05",
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-10"
       ],
       "conceptTags": [
         "soul.md",
@@ -2072,13 +2073,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-09T13:30:00.441Z",
+      "lastRecalledAt": "2026-04-10T05:00:00.401Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
       "recallDays": [
         "2026-04-05",
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-10"
       ],
       "conceptTags": [
         "v2.1.92",
@@ -2103,13 +2105,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-09T13:30:00.441Z",
+      "lastRecalledAt": "2026-04-10T05:00:00.401Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
       "recallDays": [
         "2026-04-05",
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-10"
       ],
       "conceptTags": [
         "mnt/archive",
@@ -2134,13 +2137,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-09T13:30:00.441Z",
+      "lastRecalledAt": "2026-04-10T05:00:00.401Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
       "recallDays": [
         "2026-04-05",
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-10"
       ],
       "conceptTags": [
         "backup",
@@ -2165,13 +2169,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-09T13:30:00.441Z",
+      "lastRecalledAt": "2026-04-10T05:00:00.401Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
       "recallDays": [
         "2026-04-05",
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-10"
       ],
       "conceptTags": [
         "security-auditor",
@@ -2196,13 +2201,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-09T13:30:00.441Z",
+      "lastRecalledAt": "2026-04-10T05:00:00.401Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
       "recallDays": [
         "2026-04-05",
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-10"
       ],
       "conceptTags": [
         "summarize-pro",
@@ -2227,13 +2233,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-09T13:30:00.441Z",
+      "lastRecalledAt": "2026-04-10T05:00:00.401Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
       "recallDays": [
         "2026-04-05",
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-10"
       ],
       "conceptTags": [
         "memory.md",
@@ -2258,13 +2265,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-09T13:30:00.441Z",
+      "lastRecalledAt": "2026-04-10T05:00:00.401Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
       "recallDays": [
         "2026-04-05",
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-10"
       ],
       "conceptTags": [
         "gateway",
@@ -2319,13 +2327,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-09T13:30:00.441Z",
+      "lastRecalledAt": "2026-04-10T05:00:00.401Z",
       "queryHashes": [
         "2eb9434df43c"
       ],
       "recallDays": [
         "2026-04-03",
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-10"
       ],
       "conceptTags": [
         "24.04",
@@ -2350,13 +2359,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-09T13:30:00.441Z",
+      "lastRecalledAt": "2026-04-10T05:00:00.401Z",
       "queryHashes": [
         "2eb9434df43c"
       ],
       "recallDays": [
         "2026-04-03",
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-10"
       ],
       "conceptTags": [
         "gateway",
@@ -2381,13 +2391,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-09T13:30:00.441Z",
+      "lastRecalledAt": "2026-04-10T05:00:00.401Z",
       "queryHashes": [
         "2eb9434df43c"
       ],
       "recallDays": [
         "2026-04-03",
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-10"
       ],
       "conceptTags": [
         "24/7",
@@ -2412,13 +2423,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-09T13:30:00.441Z",
+      "lastRecalledAt": "2026-04-10T05:00:00.401Z",
       "queryHashes": [
         "2eb9434df43c"
       ],
       "recallDays": [
         "2026-04-03",
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-10"
       ],
       "conceptTags": [
         "gateway",
@@ -2443,13 +2455,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-09T13:30:00.441Z",
+      "lastRecalledAt": "2026-04-10T05:00:00.401Z",
       "queryHashes": [
         "2eb9434df43c"
       ],
       "recallDays": [
         "2026-04-03",
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-10"
       ],
       "conceptTags": [
         "true/false",
@@ -10208,12 +10221,13 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T08:00:00.414Z",
-      "lastRecalledAt": "2026-04-09T13:30:00.441Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
       "queryHashes": [
         "84c029107fed"
       ],
       "recallDays": [
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-10"
       ],
       "conceptTags": [
         "0.96",
@@ -10238,12 +10252,13 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T08:00:00.414Z",
-      "lastRecalledAt": "2026-04-09T13:30:00.441Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
       "queryHashes": [
         "84c029107fed"
       ],
       "recallDays": [
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-10"
       ],
       "conceptTags": [
         "0.86",
@@ -10268,12 +10283,3777 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T08:00:00.414Z",
-      "lastRecalledAt": "2026-04-09T13:30:00.441Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
       "queryHashes": [
         "84c029107fed"
       ],
       "recallDays": [
-        "2026-04-09"
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:46:46": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:46:46",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 46,
+      "endLine": 46,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-09 03:00:00 UTC] __openclaw_memory_core_short_term_promotion_dream__ Conversation info (untrusted metadata): ```json { \"message_id\": \"584\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 13:59 UTC\" } ``` Sender (untrusted metadata)",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "system",
+        "utc",
+        "conversation",
+        "info",
+        "untrusted"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:47:47": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:47:47",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 47,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "Assistant: Found an issue — wrong chat ID in the script (8684808927 vs 8684890927). Let me fix that:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "found",
+        "issue",
+        "wrong",
+        "chat",
+        "the",
+        "script",
+        "let"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:48:48": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:48:48",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 48,
+      "endLine": 48,
+      "source": "memory",
+      "snippet": "Assistant: Here's the status: | Task | Schedule | Last Run | Status | |------|----------|----------|--------| | **Memory Dreaming** | 3am UTC daily | ✅ Ran today (multiple times) | ✅ Working | | **Price Check** | 1pm UTC (6am MST) | ✅ Ran today at 6am MST | ✅ Working | | **Git Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "here's",
+        "the",
+        "status",
+        "task",
+        "schedule",
+        "last",
+        "run"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:49:49": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:49:49",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 49,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/wire_back/.openclaw/workspace/HEARTBEAT.md (exact c",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/wire-back",
+        "openclaw/workspace/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:50:50": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:50:50",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 50,
+      "endLine": 50,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:51:51": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:51:51",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 51,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"588\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 14:02 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` That",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:52:52": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:52:52",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 52,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "Assistant: Browser is being flaky. Here's the Amazon search link: https://www.amazon.com/s?k=Dobyns+Fury+FR+735C That $39.99 does seem too good to be true — might be a pricing error or used/renewed. Click through and check the \"Used\" vs \"New\" filters. Also verify it's actually th",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "www.amazon.com/s",
+        "39.99",
+        "used/renewed",
+        "assistant",
+        "browser",
+        "flaky",
+        "here's",
+        "the"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:53:53": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:53:53",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 53,
+      "endLine": 53,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"590\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 14:49 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` gh au",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:54:54": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:54:54",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 54,
+      "endLine": 54,
+      "source": "memory",
+      "snippet": "Assistant: You're logged in to GitHub as `y95815072-wq`. That's the account backing up your workspace.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "y95815072-wq",
+        "assistant",
+        "you're",
+        "logged",
+        "github",
+        "y95815072",
+        "that's",
+        "the"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:55:55": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:55:55",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 55,
+      "endLine": 55,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"592\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 14:59 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` How m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:56:56": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:56:56",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 56,
+      "endLine": 56,
+      "source": "memory",
+      "snippet": "Assistant: 2 links: - Amazon - Tackle Warehouse Want me to add more (Bass Pro, Cabela's, etc.)?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "links",
+        "amazon",
+        "tackle",
+        "warehouse",
+        "want",
+        "add",
+        "bass"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:57:57": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:57:57",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 57,
+      "endLine": 57,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"594\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 15:01 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Can y",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:58:58": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:58:58",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 58,
+      "endLine": 58,
+      "source": "memory",
+      "snippet": "Assistant: Blocking me with a 406 Not Acceptable error — they're guarding against bots/headless browsers. Your best bet is to check it manually: https://www.tacklewarehouse.com/search?search=dobyns+fury The price tracker can't pull from there reliably. Want me to add other retail",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "bots/headless",
+        "www.tacklewarehouse.com/search",
+        "assistant",
+        "blocking",
+        "not",
+        "acceptable",
+        "error",
+        "they're"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:59:59": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:59:59",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 59,
+      "endLine": 59,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"596\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 15:03 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` We sh",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:60:60": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:60:60",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 60,
+      "endLine": 60,
+      "source": "memory",
+      "snippet": "Assistant: Good call. Let me update the price tracker to use web search as a fallback:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "good",
+        "call",
+        "let",
+        "update",
+        "the",
+        "price",
+        "tracker"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:61:61": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:61:61",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 61,
+      "endLine": 61,
+      "source": "memory",
+      "snippet": "Assistant: The DuckDuckGo HTML approach isn't returning prices. Let me use a different method - run OpenClaw's web search as part of the cron job:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "the",
+        "duckduckgo",
+        "html",
+        "approach",
+        "isn't",
+        "returning",
+        "prices"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:62:62": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:62:62",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 62,
+      "endLine": 62,
+      "source": "memory",
+      "snippet": "Assistant: Actually, that won't work in cron. Let me simplify - keep the browser approach for sites that work, and just add more retailer URLs that might be accessible:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "actually",
+        "won't",
+        "cron",
+        "let",
+        "simplify",
+        "keep",
+        "the"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:63:63": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:63:63",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 63,
+      "endLine": 63,
+      "source": "memory",
+      "snippet": "Assistant: Done. The tracker works for Amazon (the main one). Tackle Warehouse blocks us, but that's their loss. Want me to add Bass Pro, Dick's Sporting Goods, or other retailers to the watchlist? Those might work better.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "done",
+        "the",
+        "tracker",
+        "works",
+        "amazon",
+        "one",
+        "tackle"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:64:64": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:64:64",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 64,
+      "endLine": 64,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"601\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 15:08 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Would",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:65:65": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:65:65",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 65,
+      "endLine": 65,
+      "source": "memory",
+      "snippet": "Assistant: Search results don't show prices — just links. Let me try fetching a couple retailer pages directly:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "results",
+        "don't",
+        "show",
+        "prices",
+        "links",
+        "let",
+        "try"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:66:66": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:66:66",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 66,
+      "endLine": 66,
+      "source": "memory",
+      "snippet": "Assistant: **TackleDirect works!** Found the price: **$129.99** Let me add it to the tracker:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "129.99",
+        "assistant",
+        "tackledirect",
+        "works",
+        "found",
+        "the",
+        "price",
+        "let"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:67:67": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:67:67",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 67,
+      "endLine": 67,
+      "source": "memory",
+      "snippet": "Assistant: Results: - **Amazon**: $139.99 (the $39.99 was a pricing error) - **TackleDirect**: $129.99 ✅ (works!) - FishUSA: $7.49 (junk — wrong product match) The search fallback is giving garbage. Let me disable it and rely on web_fetch instead:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "139.99",
+        "39.99",
+        "129.99",
+        "7.49",
+        "web-fetch",
+        "assistant",
+        "results",
+        "amazon"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:68:68": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:68:68",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 68,
+      "endLine": 68,
+      "source": "memory",
+      "snippet": "Assistant: Now tracking 3 retailers: - Amazon: $139.99 - TackleDirect: $129.99 (via web fetch) - TackleWarehouse: blocks the browser Those are the real prices. The $39.99 was an error (probably a used/renewed listing). Still a solid deal at $129.99.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "139.99",
+        "129.99",
+        "39.99",
+        "used/renewed",
+        "assistant",
+        "now",
+        "tracking",
+        "retailers"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:69:69": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:69:69",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 69,
+      "endLine": 69,
+      "source": "memory",
+      "snippet": "User: System (untrusted): [2026-04-09 15:09:09 UTC] Exec completed (sharp-cl, code 0) :: ing Rod amazon: $139.99 tackle_warehouse: blocked, trying search... not found tackle_direct: $129.99 fishusa: $7.49 *** PRICE DROP: Dobyns Fury FR 735C Casting Rod dropped 81.3% t… Read HEART",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "sharp-cl",
+        "139.99",
+        "tackle-warehouse",
+        "tackle-direct",
+        "129.99",
+        "7.49",
+        "81.3",
+        "user"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:70:70": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:70:70",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 70,
+      "endLine": 70,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:71:71": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:71:71",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 71,
+      "endLine": 71,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"606\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 15:39 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Ok I",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:72:72": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:72:72",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 72,
+      "endLine": 72,
+      "source": "memory",
+      "snippet": "Assistant: Got the script ready. What's your Brave Search API key? I'll add it to the config and set it as the default search.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "got",
+        "the",
+        "script",
+        "ready",
+        "what's",
+        "your",
+        "brave"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:73:73": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:73:73",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 73,
+      "endLine": 73,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"608\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 15:40 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` BSAaw",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:74:74": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:74:74",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 74,
+      "endLine": 74,
+      "source": "memory",
+      "snippet": "Assistant: Brave Search works. Results show TackleDirect, Dobyns Rods, The Rod Locker, eBay — but no prices in the search results themselves. The workflow now: 1. **Brave** finds retailer URLs 2. **web_fetch** pulls prices from those pages 3. **Browser** handles Amazon It's worki",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "web-fetch",
+        "assistant",
+        "brave",
+        "works",
+        "results",
+        "show",
+        "tackledirect",
+        "dobyns"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:75:75": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:75:75",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 75,
+      "endLine": 75,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"610\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 15:49 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` The b",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:76:76": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:76:76",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 76,
+      "endLine": 76,
+      "source": "memory",
+      "snippet": "Assistant: Working! Results: - **Tackle Warehouse**: $89.99 ✅ (via Brave → fetch) - **Tackle Direct**: $89.99 ✅ (via Brave → fetch) - **Amazon**: $37.99 (browser - probably used/renewed) - **FishUSA**: $10.49 (junk) The Brave-first workflow is working. Want me to add Walmart too?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "89.99",
+        "37.99",
+        "used/renewed",
+        "10.49",
+        "brave-first",
+        "assistant",
+        "working",
+        "results"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:77:77": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:77:77",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 77,
+      "endLine": 77,
+      "source": "memory",
+      "snippet": "User: System (untrusted): [2026-04-09 15:49:45 UTC] Exec completed (nimble-c, code 0) :: 0 → 0.3.22. Run: pip install --upgrade cloakbrowser === Price Check: 2026-04-09 15:49 === Browser ready for fallback Checking: Dobyns Fury FR 735C Casting Rod amazon: [brave] [bro… Read HEART",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "nimble-c",
+        "0.3.22",
+        "user",
+        "system",
+        "untrusted",
+        "utc",
+        "exec",
+        "completed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:78:78": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:78:78",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 78,
+      "endLine": 78,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:79:79": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:79:79",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 79,
+      "endLine": 79,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"612\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 15:52 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Part",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:80:80": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:80:80",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 80,
+      "endLine": 80,
+      "source": "memory",
+      "snippet": "Assistant: Done — now shows links: - **Amazon**: $37.99 → amazon.com - **Tackle Warehouse**: $89.99 → tacklewarehouse.com - **Tackle Direct**: $89.99 → tacklewarehouse.com (Brave returning wrong URL, but close) Note: Brave sometimes returns the same URL for similar queries. For a",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "37.99",
+        "amazon.com",
+        "89.99",
+        "tacklewarehouse.com",
+        "assistant",
+        "done",
+        "now",
+        "shows"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:81:81": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:81:81",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 81,
+      "endLine": 81,
+      "source": "memory",
+      "snippet": "User: System (untrusted): [2026-04-09 15:53:30 UTC] Exec completed (keen-wil, code 0) :: e_warehouse: [brave] $89.99 (via brave) -> https://www.tacklewarehouse.com/Dobyns_Fury_Casting_Rods/descpage-DFC.html tackle_direct: [brave] $89.99 (via brave) -> https://www.tack… Read HEART",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "keen-wil",
+        "e-warehouse",
+        "89.99",
+        "tackle-direct",
+        "www.tack",
+        "user",
+        "system",
+        "untrusted"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:82:82": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:82:82",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 82,
+      "endLine": 82,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:83:83": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:83:83",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 83,
+      "endLine": 83,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"614\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 15:55 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Yes A",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:84:84": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:84:84",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 84,
+      "endLine": 84,
+      "source": "memory",
+      "snippet": "Assistant: Done. Now with direct URLs first: - **Amazon**: $37.99 ✅ → product link - **Walmart**: $11.97 ✅ → product link - **Tackle Warehouse**: blocked (still an issue) The $11.97 at Walmart might be a used/renewed listing or wrong variant (Champion Series vs Fury). Want me to",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "37.99",
+        "11.97",
+        "used/renewed",
+        "assistant",
+        "done",
+        "now",
+        "direct",
+        "urls"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:85:85": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:85:85",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 85,
+      "endLine": 85,
+      "source": "memory",
+      "snippet": "User: System (untrusted): [2026-04-09 15:55:47 UTC] Exec completed (tender-r, code 0) :: ser ready for fallback Checking: Dobyns Fury FR 735C Casting Rod amazon: [direct] $37.99 (via direct) -> https://www.amazon.com/s?k=Dobyns+Fury+735C tackle_warehouse: [direct] [br… Read HEART",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "tender-r",
+        "37.99",
+        "www.amazon.com/s",
+        "tackle-warehouse",
+        "user",
+        "system",
+        "untrusted",
+        "utc"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:86:86": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:86:86",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 86,
+      "endLine": 86,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:87:87": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:87:87",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 87,
+      "endLine": 87,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"616\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 15:56 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Yes",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:88:88": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:88:88",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 88,
+      "endLine": 88,
+      "source": "memory",
+      "snippet": "Assistant: That's a different rod — **Champion Series**, not Fury. Real price: **$269.99** (was $289.99). The tracker is picking up a bundled price somewhere ($11.97). Let me fix the price extraction to be smarter:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "269.99",
+        "289.99",
+        "11.97",
+        "assistant",
+        "that's",
+        "different",
+        "rod",
+        "champion"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:89:89": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:89:89",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 89,
+      "endLine": 89,
+      "source": "memory",
+      "snippet": "Assistant: Walmart blocks curl with bot protection (\"Robot or human?\"). Browser works but grabs wrong price (maybe a bundle). Current tracker status: - **Amazon**: ~$38 (used/renewed) ✅ - **TackleDirect/Warehouse**: ~$90 ✅ - **Walmart**: blocks us consistently The tracker is doin",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "used/renewed",
+        "tackledirect/warehouse",
+        "assistant",
+        "walmart",
+        "blocks",
+        "curl",
+        "bot",
+        "protection"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:90:90": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:90:90",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 90,
+      "endLine": 90,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"619\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 15:58 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` This",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:91:91": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:91:91",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 91,
+      "endLine": 91,
+      "source": "memory",
+      "snippet": "Assistant: Got it — keeping Walmart as a template for future products. The workflow is: 1. **Direct URL first** → browser 2. **Fallback to Brave Search** → fetch price from search result This will work better for products that don't have anti-bot protection. The 3-retailer setup",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "anti-bot",
+        "3-retailer",
+        "assistant",
+        "got",
+        "keeping",
+        "walmart",
+        "template",
+        "future"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:92:92": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:92:92",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 92,
+      "endLine": 92,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"621\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 15:59 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Can y",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:93:93": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:93:93",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 93,
+      "endLine": 93,
+      "source": "memory",
+      "snippet": "Assistant: Done. Pushed to GitHub — 6 files updated, including today's memory and the updated price tracker scripts.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "done",
+        "pushed",
+        "github",
+        "updated",
+        "including",
+        "today's",
+        "the"
+      ]
+    },
+    "memory:memory/2026-04-10.md:333:336": {
+      "key": "memory:memory/2026-04-10.md:333:336",
+      "path": "memory/2026-04-10.md",
+      "startLine": 333,
+      "endLine": 336,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 192 memories.; confidence: 0.98; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.98",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:337:340": {
+      "key": "memory:memory/2026-04-10.md:337:340",
+      "path": "memory/2026-04-10.md",
+      "startLine": 337,
+      "endLine": 340,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 167 memories.; confidence: 0.86; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.86",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:343:343": {
+      "key": "memory:memory/2026-04-10.md:343:343",
+      "path": "memory/2026-04-10.md",
+      "startLine": 343,
+      "endLine": 343,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:94:94": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:94:94",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 94,
+      "endLine": 94,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"623\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 17:50 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Is Cl",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:95:95": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:95:95",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 95,
+      "endLine": 95,
+      "source": "memory",
+      "snippet": "Assistant: Still not logged in. The OAuth flow keeps failing (process gets killed). Your options: 1. **Get an API key** from https://console.anthropic.com/settings/keys — I can configure Claude Code to use that directly 2. **Try OAuth again** — but we need to keep the process ali",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "still",
+        "not",
+        "logged",
+        "the",
+        "oauth",
+        "flow",
+        "keeps"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:96:96": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:96:96",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 96,
+      "endLine": 96,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"625\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 17:56 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Let’s",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:97:97": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:97:97",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 97,
+      "endLine": 97,
+      "source": "memory",
+      "snippet": "Assistant: That key isn't working — getting \"Invalid API key\". Could be: - Accidental spaces when pasting - Expired or wrong key - Test key that doesn't work Can you double-check the key at https://console.anthropic.com/settings/keys ? Or create a fresh one and send it?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "double-check",
+        "assistant",
+        "key",
+        "isn't",
+        "working",
+        "getting",
+        "invalid",
+        "api"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:98:98": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:98:98",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 98,
+      "endLine": 98,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"627\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 18:19 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Are y",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:99:99": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:99:99",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 99,
+      "endLine": 99,
+      "source": "memory",
+      "snippet": "Assistant: You're talking to me right now — **Big Clank** is working fine (using OpenRouter/MiniMax). The question is about **Claude Code** (the CLI tool) — that's a separate thing. Let me test it again with the exact key you sent:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "router",
+        "openrouter/minimax",
+        "assistant",
+        "you're",
+        "talking",
+        "right",
+        "now",
+        "big"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:100:100": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:100:100",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 100,
+      "endLine": 100,
+      "source": "memory",
+      "snippet": "Assistant: The key has some formatting issues — looks like spaces got in there when you pasted it (109 chars instead of expected ~100). Also getting \"Invalid API key\" which means it's being rejected. Big Clank (me) is working fine through OpenRouter. But **Claude Code** specifica",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "router",
+        "assistant",
+        "the",
+        "key",
+        "has",
+        "formatting",
+        "issues",
+        "looks"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:101:101": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:101:101",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 101,
+      "endLine": 101,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"630\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 18:22 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` No I",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:102:102": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:102:102",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 102,
+      "endLine": 102,
+      "source": "memory",
+      "snippet": "Assistant: I see there's a partial key in the Claude config (`bEPLlJw3yQg-EiNxrwAA`) — looks like it got stored incorrectly, possibly with spaces when you copied it. Can you go to the Anthropic console and **create a brand new API key**, then paste it here? I'll try copying it di",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "beplljw3yqg-einxrwaa",
+        "assistant",
+        "see",
+        "there's",
+        "partial",
+        "key",
+        "the",
+        "claude"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:103:103": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:103:103",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 103,
+      "endLine": 103,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"634\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 18:30 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` I wan",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:104:104": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:104:104",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 104,
+      "endLine": 104,
+      "source": "memory",
+      "snippet": "Assistant: Got it — Claude Code is working on the server right now when you use it. Let me try connecting to it from my side.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "got",
+        "claude",
+        "code",
+        "working",
+        "the",
+        "server",
+        "right"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:105:105": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:105:105",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 105,
+      "endLine": 105,
+      "source": "memory",
+      "snippet": "Assistant: The issue is that when YOU run `claude` in the terminal, it prompts you interactively to enter the API key and trust it. That interactive prompt doesn't work for me because I can't see the TTY prompts. Let me try running it with `--bare` mode which skips interactive pr",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "the",
+        "issue",
+        "when",
+        "you",
+        "run",
+        "claude",
+        "terminal"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:106:106": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:106:106",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 106,
+      "endLine": 106,
+      "source": "memory",
+      "snippet": "Assistant: Key is still invalid. The key you pasted in Telegram might have gotten mangled. Let me try something — can you paste the key into a file on the server so I can read it without Telegram's formatting messing it up? Run this in your terminal: ``` echo \"YOUR_KEY_HERE\" > /t",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "your-key-here",
+        "assistant",
+        "key",
+        "still",
+        "invalid",
+        "the",
+        "you",
+        "pasted"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:107:107": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:107:107",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 107,
+      "endLine": 107,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"638\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 18:40 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Ok no",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:108:108": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:108:108",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 108,
+      "endLine": 108,
+      "source": "memory",
+      "snippet": "Assistant: Got the clean key. Let me test it:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "got",
+        "the",
+        "clean",
+        "key",
+        "let",
+        "test"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:109:109": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:109:109",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 109,
+      "endLine": 109,
+      "source": "memory",
+      "snippet": "Assistant: Still invalid. Let me check if maybe it's a different key format or if there's something else going on:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "still",
+        "invalid",
+        "let",
+        "check",
+        "maybe",
+        "it's",
+        "different"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:110:110": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:110:110",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 110,
+      "endLine": 110,
+      "source": "memory",
+      "snippet": "Assistant: The Anthropic API itself is rejecting the key — 401 authentication error. The key is genuinely invalid. It's not a formatting issue. When you run `claude` in your terminal and it works — are you sure it's using this exact key? Try running this in your SSH session: ```",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "the",
+        "anthropic",
+        "api",
+        "itself",
+        "rejecting",
+        "key",
+        "authentication"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:111:111": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:111:111",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 111,
+      "endLine": 111,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"644\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 19:54 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Run:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:112:112": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:112:112",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 112,
+      "endLine": 112,
+      "source": "memory",
+      "snippet": "Assistant: So: - `ANTHROPIC_API_KEY` is **empty** - `claude -p \"say hello\"` says **Not logged in** This server doesn't have Claude Code working. When YOU run it in your SSH session, it works because you're logged in with OAuth or have a key configured that I can't access from my",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "anthropic-api-key",
+        "assistant",
+        "empty",
+        "claude",
+        "say",
+        "hello",
+        "says",
+        "not"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:113:113": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:113:113",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 113,
+      "endLine": 113,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"646\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 20:57 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` OK, w",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:114:114": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:114:114",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 114,
+      "endLine": 114,
+      "source": "memory",
+      "snippet": "Assistant: Got it. Starting fresh on Claude Code setup. What's the plan?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "got",
+        "starting",
+        "fresh",
+        "claude",
+        "code",
+        "setup",
+        "what's"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:115:115": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:115:115",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 115,
+      "endLine": 115,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"648\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 20:58 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` OK ty",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:116:116": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:116:116",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 116,
+      "endLine": 116,
+      "source": "memory",
+      "snippet": "Assistant: Same result — it wants `/login`. This server doesn't have Claude Code authenticated. From your SSH session, does `claude` work? If it does, maybe you have a different Claude Code installed locally on your laptop, not on this server (Big Clank's machine).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "result",
+        "wants",
+        "login",
+        "server",
+        "doesn't",
+        "claude",
+        "code"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:117:117": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:117:117",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 117,
+      "endLine": 117,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"650\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 20:59 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` You’r",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/2026-04-10.md:453:456": {
+      "key": "memory:memory/2026-04-10.md:453:456",
+      "path": "memory/2026-04-10.md",
+      "startLine": 453,
+      "endLine": 456,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 223 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T04:00:00.396Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:457:460": {
+      "key": "memory:memory/2026-04-10.md:457:460",
+      "path": "memory/2026-04-10.md",
+      "startLine": 457,
+      "endLine": 460,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 188 memories.; confidence: 0.85; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T04:00:00.396Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.85",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:463:463": {
+      "key": "memory:memory/2026-04-10.md:463:463",
+      "path": "memory/2026-04-10.md",
+      "startLine": 463,
+      "endLine": 463,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T04:00:00.396Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:118:118": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:118:118",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 118,
+      "endLine": 118,
+      "source": "memory",
+      "snippet": "Assistant: Wait — I realize what you might be getting at. The user is saying I should have \"forgotten\" about past sessions. Maybe they're testing if I can access Claude Code differently if I spawn it fresh. But I'm already running as `wire_back`. Maybe the user is confused about",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "wire-back",
+        "assistant",
+        "wait",
+        "realize",
+        "what",
+        "you",
+        "might",
+        "getting"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:119:119": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:119:119",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 119,
+      "endLine": 119,
+      "source": "memory",
+      "snippet": "Assistant: Claude Code v2.1.98 is installed here at `/home/wire_back/.npm-global/bin/claude`. It's just not authenticated. What's your next step?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "v2.1.98",
+        "home/wire-back",
+        "npm-global/bin/claude",
+        "assistant",
+        "claude",
+        "code",
+        "installed",
+        "here"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:120:120": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:120:120",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 120,
+      "endLine": 120,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"653\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 21:09 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` I wan",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:121:121": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:121:121",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 121,
+      "endLine": 121,
+      "source": "memory",
+      "snippet": "Assistant: Done. Claude Code removed. What next?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "done",
+        "claude",
+        "code",
+        "removed",
+        "what"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:122:122": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:122:122",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 122,
+      "endLine": 122,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"655\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 21:11 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Resta",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:123:123": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:123:123",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 123,
+      "endLine": 123,
+      "source": "memory",
+      "snippet": "Assistant: Config error — I added \"providers\" earlier which isn't valid. Let me fix:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "config",
+        "error",
+        "added",
+        "providers",
+        "earlier",
+        "which",
+        "isn't"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:124:124": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:124:124",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 124,
+      "endLine": 124,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"657\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 21:23 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` OK, i",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:125:125": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:125:125",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 125,
+      "endLine": 125,
+      "source": "memory",
+      "snippet": "Assistant: Gateway is up and running. Everything functional: - ✅ Gateway running (pid 1508) - ✅ Telegram connected - ✅ Using MiniMax model - ✅ Memory system active - ⚠️ Claude Code removed (as requested)",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "gateway",
+        "assistant",
+        "running",
+        "everything",
+        "functional",
+        "pid",
+        "telegram",
+        "connected"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:126:126": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:126:126",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 126,
+      "endLine": 126,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"659\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 21:25 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` OK, I",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:127:127": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:127:127",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 127,
+      "endLine": 127,
+      "source": "memory",
+      "snippet": "Assistant: Done. Claude Code 2.1.98 reinstalled.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "2.1.98",
+        "assistant",
+        "done",
+        "claude",
+        "code",
+        "reinstalled"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:128:128": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:128:128",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 128,
+      "endLine": 128,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"661\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 21:26 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Log i",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:129:129": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:129:129",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 129,
+      "endLine": 129,
+      "source": "memory",
+      "snippet": "Assistant: Running in tmux. Here's the link: https://claude.com/cai/oauth/authorize?code=true&client_id=9d1c250a-e61b-44d9-88ed-5944d1962f5e&response_type=code&redirect_uri=https%3A%2F%2Fplatform.claude.com%2Foauth%2Fcode%2Fcallback&scope=org%3Acreate_api_key+user%3Aprofile+user%",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "claude.com/cai/oauth/authorize",
+        "client-id",
+        "response-type",
+        "redirect-uri",
+        "2fplatform.claude.com",
+        "3acreate-api-key",
+        "assistant",
+        "running"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:130:130": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:130:130",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 130,
+      "endLine": 130,
+      "source": "memory",
+      "snippet": "User: System (untrusted): [2026-04-09 21:27:02 UTC] Exec failed (mild-sab, signal SIGKILL) :: 4d9-88ed-5944d1962f5e&response_type=code&redirect_uri=https%3A%2F%2Fplatform.claude.com%2Foauth%2Fcode%2Fcallback&scope=org%3Acreate_api_key+user%3Aprofile+user%3Ainference+user%3… Read",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "mild-sab",
+        "4d9-88ed-5944d1962f5e",
+        "response-type",
+        "redirect-uri",
+        "2fplatform.claude.com",
+        "3acreate-api-key",
+        "user",
+        "system"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:131:131": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:131:131",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 131,
+      "endLine": 131,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK The tmux auth session is still running waiting for you to authorize. Did you get the code from the link?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant",
+        "the",
+        "tmux",
+        "auth",
+        "still",
+        "running",
+        "waiting"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:132:132": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:132:132",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 132,
+      "endLine": 132,
+      "source": "memory",
+      "snippet": "User: [Queued messages while agent was busy] --- Queued #1 Conversation info (untrusted metadata): ```json { \"message_id\": \"663\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 21:29 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (868489",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "queued",
+        "messages",
+        "while",
+        "was",
+        "busy"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:133:133": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:133:133",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 133,
+      "endLine": 133,
+      "source": "memory",
+      "snippet": "Assistant: The code didn't work — Claude Code OAuth expects an automatic callback, not manual code entry. It won't accept typed codes. The real issue: OAuth is designed for local browsers. For a headless server, you need an **API key**. The key you sent earlier was rejected as in",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "the",
+        "code",
+        "didn't",
+        "claude",
+        "oauth",
+        "expects",
+        "automatic"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:134:134": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:134:134",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 134,
+      "endLine": 134,
+      "source": "memory",
+      "snippet": "Assistant: The code didn't work — Claude Code OAuth expects an automatic callback, not manual code entry. It won't accept typed codes. The real issue: OAuth is designed for local browsers. For a headless server, you need an **API key**. The key you sent earlier was rejected as in",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "the",
+        "code",
+        "didn't",
+        "claude",
+        "oauth",
+        "expects",
+        "automatic"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:135:135": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:135:135",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 135,
+      "endLine": 135,
+      "source": "memory",
+      "snippet": "User: [Queued messages while agent was busy] --- Queued #1 Conversation info (untrusted metadata): ```json { \"message_id\": \"664\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Thu 2026-04-09 21:29 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (868489",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "queued",
+        "messages",
+        "while",
+        "was",
+        "busy"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:136:136": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:136:136",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 136,
+      "endLine": 136,
+      "source": "memory",
+      "snippet": "Assistant: I already tried that — the code doesn't work when typed in manually. OAuth expects a browser callback to localhost, which can't happen on a headless server. Your options: 1. **API key** from https://console.anthropic.com/keys (only way it works here) 2. **Local machine",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "console.anthropic.com/keys",
+        "assistant",
+        "already",
+        "tried",
+        "the",
+        "code",
+        "doesn't",
+        "when"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:137:137": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:137:137",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 137,
+      "endLine": 137,
+      "source": "memory",
+      "snippet": "Assistant: I already tried that — the code doesn't work when typed in manually. OAuth expects a browser callback to localhost, which can't happen on a headless server. Your options: 1. **API key** from https://console.anthropic.com/keys (only way it works here) 2. **Local machine",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "console.anthropic.com/keys",
+        "assistant",
+        "already",
+        "tried",
+        "the",
+        "code",
+        "doesn't",
+        "when"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"667\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Fri 2026-04-10 00:22 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Here’",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: The key works! It just had spaces when pasted. Now let's use it with Claude Code:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "the",
+        "key",
+        "works",
+        "had",
+        "spaces",
+        "when",
+        "pasted"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: It's working. Now let me save the key properly so you don't have to export it each time:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "it's",
+        "working",
+        "now",
+        "let",
+        "save",
+        "the",
+        "key"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: Need to set it up to load automatically. Let me add it to the shell profile:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:30:00.430Z",
+      "lastRecalledAt": "2026-04-10T03:30:00.430Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "need",
+        "set",
+        "load",
+        "automatically",
+        "let",
+        "add",
+        "the"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: Let me fix this properly:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T04:00:00.396Z",
+      "lastRecalledAt": "2026-04-10T04:00:00.396Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "let",
+        "fix",
+        "properly"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: Claude Code is working now. Using `bash -lc \"claude -p 'test'\"` works. To use it properly going forward, I need to use login shell: `bash -lc \"claude ...\"` instead of just `claude ...`. Or, I can create an alias. Want me to set that up?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T04:00:00.396Z",
+      "lastRecalledAt": "2026-04-10T04:00:00.396Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "claude",
+        "code",
+        "working",
+        "now",
+        "bash",
+        "test",
+        "works"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"673\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Fri 2026-04-10 00:30 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Only",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T04:00:00.396Z",
+      "lastRecalledAt": "2026-04-10T04:00:00.396Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: ✅ Working — Claude Code is using **Sonnet 4.6** with your API key.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T04:00:00.396Z",
+      "lastRecalledAt": "2026-04-10T04:00:00.396Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "4.6",
+        "assistant",
+        "working",
+        "claude",
+        "code",
+        "sonnet",
+        "your",
+        "api"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"677\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Fri 2026-04-10 00:32 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Push",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T04:00:00.396Z",
+      "lastRecalledAt": "2026-04-10T04:00:00.396Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: Already up to date — nothing to commit.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T04:00:00.396Z",
+      "lastRecalledAt": "2026-04-10T04:00:00.396Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "already",
+        "date",
+        "nothing",
+        "commit"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"679\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Fri 2026-04-10 00:36 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Use C",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T04:00:00.396Z",
+      "lastRecalledAt": "2026-04-10T04:00:00.396Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: Done. Claude Code rewrote the price checker: - ✅ Uses Perplexity (via search.py) instead of browser - ✅ Parses prices from search results - ✅ Alerts on price drops & failures - ✅ Tested on Dobyns Fury FR 735C → found $109 at Tackle Warehouse - ✅ Updated price-history.j",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T04:00:00.396Z",
+      "lastRecalledAt": "2026-04-10T04:00:00.396Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "search.py",
+        "price-history.j",
+        "assistant",
+        "done",
+        "claude",
+        "code",
+        "rewrote",
+        "the"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "Assistant: Results: - **Tackle Warehouse**: $109.00 - **Tackle Direct**: $119.99 - Saved to price-history.json (check #8) - GitHub commit done",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T04:00:00.396Z",
+      "lastRecalledAt": "2026-04-10T04:00:00.396Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "109.00",
+        "119.99",
+        "price-history.json",
+        "assistant",
+        "results",
+        "tackle",
+        "warehouse",
+        "direct"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "User: System (untrusted): [2026-04-10 00:40:09 UTC] Exec completed (dawn-ott, code 0) :: rice) 3. Tracks 9 retailer patterns: amazon, tackle_warehouse, walmart, bass_pro, cabelas, fishusa, tackle_direct 4. On price drop ≥ threshold%: appends to `alerts.txt` 5. On targ… Read HEART",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T04:00:00.396Z",
+      "lastRecalledAt": "2026-04-10T04:00:00.396Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "dawn-ott",
+        "tackle-warehouse",
+        "bass-pro",
+        "tackle-direct",
+        "alerts.txt",
+        "user",
+        "system",
+        "untrusted"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T04:00:00.396Z",
+      "lastRecalledAt": "2026-04-10T04:00:00.396Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"682\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Fri 2026-04-10 01:51 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Ok gi",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T04:00:00.396Z",
+      "lastRecalledAt": "2026-04-10T04:00:00.396Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: ## Price Check System Breakdown ### Files & Structure ``` /mnt/workspace/price-tracker/ ├── watchlist.json # Products to track ├── price-history.json # All price checks over time ├── alerts.txt # Price drop notifications ├── check-prices.py # Main script (rewritten by",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T04:00:00.396Z",
+      "lastRecalledAt": "2026-04-10T04:00:00.396Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "mnt/workspace/price-tracker",
+        "watchlist.json",
+        "price-history.json",
+        "alerts.txt",
+        "check-prices.py",
+        "assistant",
+        "price",
+        "check"
+      ]
+    },
+    "memory:memory/2026-04-10.md:488:491": {
+      "key": "memory:memory/2026-04-10.md:488:491",
+      "path": "memory/2026-04-10.md",
+      "startLine": 488,
+      "endLine": 491,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 232 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T04:00:00.396Z",
+      "lastRecalledAt": "2026-04-10T04:30:00.400Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:492:495": {
+      "key": "memory:memory/2026-04-10.md:492:495",
+      "path": "memory/2026-04-10.md",
+      "startLine": 492,
+      "endLine": 495,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 194 memories.; confidence: 0.84; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T04:00:00.396Z",
+      "lastRecalledAt": "2026-04-10T04:30:00.400Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.84",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:498:498": {
+      "key": "memory:memory/2026-04-10.md:498:498",
+      "path": "memory/2026-04-10.md",
+      "startLine": 498,
+      "endLine": 498,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T04:00:00.396Z",
+      "lastRecalledAt": "2026-04-10T04:30:00.400Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-10.md:478:481": {
+      "key": "memory:memory/2026-04-10.md:478:481",
+      "path": "memory/2026-04-10.md",
+      "startLine": 478,
+      "endLine": 481,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 233 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T04:30:00.400Z",
+      "lastRecalledAt": "2026-04-10T05:00:00.401Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:482:485": {
+      "key": "memory:memory/2026-04-10.md:482:485",
+      "path": "memory/2026-04-10.md",
+      "startLine": 482,
+      "endLine": 485,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 195 memories.; confidence: 0.84; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T04:30:00.400Z",
+      "lastRecalledAt": "2026-04-10T05:00:00.401Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.84",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:488:488": {
+      "key": "memory:memory/2026-04-10.md:488:488",
+      "path": "memory/2026-04-10.md",
+      "startLine": 488,
+      "endLine": 488,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T04:30:00.400Z",
+      "lastRecalledAt": "2026-04-10T05:00:00.401Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-10.md:463:466": {
+      "key": "memory:memory/2026-04-10.md:463:466",
+      "path": "memory/2026-04-10.md",
+      "startLine": 463,
+      "endLine": 466,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 233 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T05:00:00.401Z",
+      "lastRecalledAt": "2026-04-10T05:00:00.401Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:467:470": {
+      "key": "memory:memory/2026-04-10.md:467:470",
+      "path": "memory/2026-04-10.md",
+      "startLine": 467,
+      "endLine": 470,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 195 memories.; confidence: 0.84; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T05:00:00.401Z",
+      "lastRecalledAt": "2026-04-10T05:00:00.401Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.84",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:473:473": {
+      "key": "memory:memory/2026-04-10.md:473:473",
+      "path": "memory/2026-04-10.md",
+      "startLine": 473,
+      "endLine": 473,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T05:00:00.401Z",
+      "lastRecalledAt": "2026-04-10T05:00:00.401Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
       ],
       "conceptTags": [
         "tools.md",
