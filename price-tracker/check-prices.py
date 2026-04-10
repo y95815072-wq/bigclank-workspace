@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 """
-Price Tracker - uses Perplexity Sonar via search.py to find current prices.
-No browser scraping. Run manually or via cron.
+Price Tracker - 3-tier price checking system.
+Tier 1: Brave Search API
+Tier 2: Perplexity Sonar via search.py (fallback)
+Tier 3: Failure alert written to alerts.txt
+Alerts summary always written to alerts.txt after every run.
 """
 
 import json
@@ -9,6 +12,9 @@ import os
 import re
 import sys
 import subprocess
+import urllib.request
+import urllib.parse
+import urllib.error
 from datetime import datetime
 
 TRACKER_DIR = "/mnt/workspace/price-tracker"
@@ -17,16 +23,29 @@ WATCHLIST_PATH = os.path.join(TRACKER_DIR, "watchlist.json")
 HISTORY_PATH = os.path.join(TRACKER_DIR, "price-history.json")
 ALERTS_PATH = os.path.join(TRACKER_DIR, "alerts.txt")
 
-# Maps text patterns found in Perplexity output to canonical retailer keys
+BRAVE_API_KEY = os.environ.get("BRAVE_API_KEY", "")
+BRAVE_SEARCH_URL = "https://api.search.brave.com/res/v1/web/search"
+
+# Maps text/URL patterns to canonical retailer keys
 RETAILER_PATTERNS = [
-    ("amazon",          r"amazon(?:\.com)?"),
+    ("amazon",           r"amazon(?:\.com)?"),
     ("tackle_warehouse", r"tackle\s*warehouse(?:\.com)?"),
-    ("walmart",         r"walmart(?:\.com)?"),
-    ("bass_pro",        r"bass\s*pro(?:\s*shops)?"),
-    ("cabelas",         r"cabela'?s?"),
-    ("fishusa",         r"fishusa(?:\.com)?"),
-    ("tackle_direct",   r"tackle\s*direct(?:\.com)?"),
+    ("walmart",          r"walmart(?:\.com)?"),
+    ("bass_pro",         r"bass\s*pro(?:\s*shops)?"),
+    ("cabelas",          r"cabela'?s?"),
+    ("fishusa",          r"fishusa(?:\.com)?"),
+    ("tackle_direct",    r"tackle\s*direct(?:\.com)?"),
 ]
+
+RETAILER_DISPLAY = {
+    "amazon":           "Amazon",
+    "tackle_warehouse": "TackleWarehouse",
+    "walmart":          "Walmart",
+    "bass_pro":         "Bass Pro",
+    "cabelas":          "Cabela's",
+    "fishusa":          "FishUSA",
+    "tackle_direct":    "TackleDirect",
+}
 
 
 def load_json(path):
@@ -39,13 +58,87 @@ def save_json(path, data):
         json.dump(data, f, indent=2)
 
 
-def append_alert(message):
-    with open(ALERTS_PATH, 'a') as f:
-        f.write(message + "\n")
+def detect_retailer_near_price(text, price_start, window=120):
+    """Return the canonical retailer key for a price match, searching nearby context."""
+    context_start = max(0, price_start - window)
+    context = text[context_start : price_start + window].lower()
+    for retailer_key, pattern in RETAILER_PATTERNS:
+        if re.search(pattern, context, re.IGNORECASE):
+            return retailer_key
+    return None
 
+
+def parse_prices(text):
+    """
+    Extract {retailer: lowest_price} from search response text.
+    Skips values outside $5–$2000 and those with no nearby retailer signal.
+    """
+    prices = {}
+    for m in re.finditer(r'\$([0-9]{1,4}(?:\.[0-9]{1,2})?)\b', text):
+        amount = float(m.group(1))
+        if amount < 5 or amount > 2000:
+            continue
+        retailer = detect_retailer_near_price(text, m.start())
+        if retailer is None:
+            continue
+        if retailer not in prices or amount < prices[retailer]:
+            prices[retailer] = amount
+    return prices
+
+
+# ---------------------------------------------------------------------------
+# Tier 1 — Brave Search API
+# ---------------------------------------------------------------------------
+
+def query_brave(product_name):
+    """
+    Query Brave Search API. Returns raw text built from result URLs + snippets,
+    or None on any failure/no-results.
+    """
+    if not BRAVE_API_KEY:
+        print("  [Brave] BRAVE_API_KEY not set — skipping Tier 1.")
+        return None
+
+    query = f'"{product_name}" price amazon OR tacklewarehouse OR walmart'
+    params = urllib.parse.urlencode({"q": query, "count": 10})
+    url = f"{BRAVE_SEARCH_URL}?{params}"
+
+    req = urllib.request.Request(url, headers={
+        "Accept": "application/json",
+        "X-Subscription-Token": BRAVE_API_KEY,
+    })
+
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = json.loads(resp.read().decode())
+    except urllib.error.HTTPError as e:
+        print(f"  [Brave] HTTP {e.code}: {e.reason}")
+        return None
+    except Exception as e:
+        print(f"  [Brave] Request failed: {e}")
+        return None
+
+    results = data.get("web", {}).get("results", [])
+    if not results:
+        print("  [Brave] No web results returned.")
+        return None
+
+    # Build a text blob: URL first (carries retailer signal), then title + snippet
+    parts = []
+    for r in results:
+        parts.append(f"{r.get('url','')} {r.get('title','')} {r.get('description','')}")
+
+    full_text = "\n".join(parts)
+    print(f"  [Brave] {len(results)} results ({len(full_text)} chars)")
+    return full_text
+
+
+# ---------------------------------------------------------------------------
+# Tier 2 — Perplexity Sonar via search.py
+# ---------------------------------------------------------------------------
 
 def query_perplexity(product_name):
-    """Call search.py and return the raw text response."""
+    """Call search.py (Perplexity Sonar) and return raw text, or None on failure."""
     query = (
         f"{product_name} price site:amazon.com OR site:tacklewarehouse.com "
         f"OR site:walmart.com 2026"
@@ -57,54 +150,53 @@ def query_perplexity(product_name):
         )
         output = result.stdout.strip()
         if result.returncode != 0 or output.startswith("ERROR:") or output.startswith("Error:"):
-            print(f"  Search error: {output[:200]}")
+            print(f"  [Perplexity] Error: {output[:200]}")
             return None
         return output
     except subprocess.TimeoutExpired:
-        print("  Search timed out.")
+        print("  [Perplexity] Timed out.")
         return None
     except Exception as e:
-        print(f"  Search failed: {e}")
+        print(f"  [Perplexity] Failed: {e}")
         return None
 
 
-def detect_retailer_near_price(text, price_start, window=120):
-    """Return the best-matching retailer name for a price found at price_start."""
-    # Search within a window before the price match
-    context_start = max(0, price_start - window)
-    context = text[context_start : price_start + window].lower()
+# ---------------------------------------------------------------------------
+# Tier orchestration
+# ---------------------------------------------------------------------------
 
-    for retailer_key, pattern in RETAILER_PATTERNS:
-        if re.search(pattern, context, re.IGNORECASE):
-            return retailer_key
-
-    return None
-
-
-def parse_prices(text):
+def get_prices(product_name):
     """
-    Extract (retailer, price) pairs from Perplexity response text.
-    Returns dict: {retailer: lowest_price_seen_for_that_retailer}
+    Try Tier 1 (Brave) then Tier 2 (Perplexity).
+    Returns (prices_dict, tier_label) or (None, None) if both fail.
     """
-    prices = {}
+    print("  [Tier 1] Brave Search API...")
+    raw = query_brave(product_name)
+    if raw:
+        prices = parse_prices(raw)
+        if prices:
+            print(f"  [Tier 1] Prices found via Brave.")
+            return prices, "brave"
+        print("  [Tier 1] Results received but no prices parsed.")
 
-    # Find all dollar amounts like $179.99 or $12
-    for m in re.finditer(r'\$([0-9]{1,4}(?:\.[0-9]{1,2})?)\b', text):
-        amount = float(m.group(1))
-        # Sanity filter: skip obviously wrong values (shipping costs, tiny accessories)
-        if amount < 5 or amount > 2000:
-            continue
+    print("  [Tier 2] Perplexity fallback...")
+    raw = query_perplexity(product_name)
+    if raw:
+        preview = raw[:400] + ("..." if len(raw) > 400 else "")
+        for line in preview.splitlines():
+            print(f"    {line}")
+        prices = parse_prices(raw)
+        if prices:
+            print(f"  [Tier 2] Prices found via Perplexity.")
+            return prices, "perplexity"
+        print("  [Tier 2] Results received but no prices parsed.")
 
-        retailer = detect_retailer_near_price(text, m.start())
-        if retailer is None:
-            continue
+    return None, None
 
-        # Keep the lowest price seen per retailer
-        if retailer not in prices or amount < prices[retailer]:
-            prices[retailer] = amount
 
-    return prices
-
+# ---------------------------------------------------------------------------
+# History helpers
+# ---------------------------------------------------------------------------
 
 def get_previous_lowest(history, product_id):
     for check in reversed(history.get("checks", [])):
@@ -112,6 +204,14 @@ def get_previous_lowest(history, product_id):
             return check.get("lowest")
     return None
 
+
+def fmt_retailer(key):
+    return RETAILER_DISPLAY.get(key, key.replace("_", " ").title())
+
+
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
 
 def main():
     now = datetime.now()
@@ -129,34 +229,21 @@ def main():
 
     threshold_pct = watchlist["settings"].get("alert_threshold_percent", 5)
 
+    # Summary always written to alerts.txt at end of run
+    summary_lines = [f"PRICE CHECK - {today}"]
+
     for product in active_products:
         pid = product["id"]
         name = product["name"]
         target = product.get("target_price")
         print(f"Checking: {name}")
 
-        raw = query_perplexity(name)
+        prices, source = get_prices(name)
 
-        if not raw:
-            msg = f"[{ts}] FAILURE: No Perplexity response for '{name}' (id={pid})"
-            print(f"  *** {msg}")
-            append_alert(msg)
-            print()
-            continue
-
-        print(f"  Raw response ({len(raw)} chars):")
-        # Print first 600 chars so output is readable
-        preview = raw[:600] + ("..." if len(raw) > 600 else "")
-        for line in preview.splitlines():
-            print(f"    {line}")
-        print()
-
-        prices = parse_prices(raw)
-
-        if not prices:
-            msg = f"[{ts}] FAILURE: Could not parse any prices for '{name}' (id={pid})"
-            print(f"  *** {msg}")
-            append_alert(msg)
+        # --- Tier 3: both tiers failed ---
+        if prices is None:
+            print(f"  *** Both tiers failed for '{name}'")
+            summary_lines.append(f"{name}: FAILED - no price found ⚠️")
             print()
             continue
 
@@ -172,7 +259,7 @@ def main():
         if previous_lowest:
             change_percent = ((lowest_price - previous_lowest) / previous_lowest) * 100
 
-        check_entry = {
+        history["checks"].append({
             "product_id": pid,
             "date": today,
             "prices": prices,
@@ -180,36 +267,47 @@ def main():
             "lowest_retailer": lowest_retailer,
             "previous_lowest": previous_lowest,
             "change_percent": round(change_percent, 2) if change_percent is not None else None,
-        }
-        history["checks"].append(check_entry)
+            "source": source,
+        })
 
-        print(f"  Lowest: ${lowest_price:.2f} at {lowest_retailer}", end="")
+        retailer_display = fmt_retailer(lowest_retailer)
+        print(f"  Lowest: ${lowest_price:.2f} at {retailer_display}", end="")
         if change_percent is not None:
             direction = "down" if change_percent < 0 else "up"
             print(f" ({direction} {abs(change_percent):.1f}% from ${previous_lowest:.2f})", end="")
         print()
 
-        # Alert: price drop below threshold vs previous lowest
-        if (change_percent is not None
-                and change_percent <= -threshold_pct):
-            msg = (
-                f"[{ts}] PRICE DROP: {name} dropped {abs(change_percent):.1f}% "
-                f"to ${lowest_price:.2f} at {lowest_retailer} "
+        # Build summary line
+        if change_percent is None or abs(change_percent) < threshold_pct:
+            change_str = "no change"
+        elif change_percent < -threshold_pct:
+            change_str = f"DROP from ${previous_lowest:.2f} ⬇️"
+        else:
+            change_str = f"UP from ${previous_lowest:.2f} ⬆️"
+
+        summary_lines.append(f"{name}: ${lowest_price:.2f} ({retailer_display}) — {change_str}")
+
+        # Price-drop alert (console only; summary covers alerts.txt)
+        if change_percent is not None and change_percent <= -threshold_pct:
+            print(
+                f"  *** PRICE DROP: {name} dropped {abs(change_percent):.1f}% "
+                f"to ${lowest_price:.2f} at {retailer_display} "
                 f"(was ${previous_lowest:.2f})"
             )
-            print(f"  *** {msg}")
-            append_alert(msg)
 
-        # Alert: price at or below target_price
+        # Target-price alert
         if target is not None and lowest_price <= target:
-            msg = (
-                f"[{ts}] TARGET HIT: {name} is ${lowest_price:.2f} at {lowest_retailer} "
+            print(
+                f"  *** TARGET HIT: {name} is ${lowest_price:.2f} at {retailer_display} "
                 f"(target was ${target:.2f})"
             )
-            print(f"  *** {msg}")
-            append_alert(msg)
 
         print()
+
+    # Always append full summary block to alerts.txt
+    with open(ALERTS_PATH, 'a') as f:
+        f.write("\n".join(summary_lines) + "\n\n")
+    print(f"Summary written to {ALERTS_PATH}")
 
     save_json(HISTORY_PATH, history)
     print(f"Done. {len(active_products)} product(s) checked. History saved.")

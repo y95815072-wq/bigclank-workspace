@@ -1,0 +1,132 @@
+{
+  "checks": [
+    {
+      "product_id": "dobyns-fury-735c",
+      "date": "2026-04-07",
+      "prices": {
+        "amazon": 209.0,
+        "tackle_warehouse": null
+      },
+      "lowest": 209.0,
+      "lowest_retailer": "amazon",
+      "previous_lowest": null,
+      "change_percent": null
+    },
+    {
+      "product_id": "dobyns-fury-735c",
+      "date": "2026-04-08",
+      "prices": {
+        "amazon": 179.0,
+        "tackle_warehouse": null
+      },
+      "lowest": 179.0,
+      "lowest_retailer": "amazon",
+      "previous_lowest": 209.0,
+      "change_percent": -14.35
+    },
+    {
+      "product_id": "dobyns-fury-735c",
+      "date": "2026-04-09",
+      "prices": {
+        "amazon": 39.99,
+        "tackle_warehouse": null
+      },
+      "lowest": 39.99,
+      "lowest_retailer": "amazon",
+      "previous_lowest": 179.0,
+      "change_percent": -77.66
+    },
+    {
+      "product_id": "dobyns-fury-735c",
+      "date": "2026-04-09",
+      "prices": {
+        "amazon": 139.99,
+        "tackle_warehouse": null,
+        "tackle_direct": 129.99,
+        "fishusa": 7.49
+      },
+      "lowest": 7.49,
+      "lowest_retailer": "fishusa",
+      "previous_lowest": 39.99,
+      "change_percent": -81.27
+    },
+    {
+      "product_id": "dobyns-fury-735c",
+      "date": "2026-04-09",
+      "prices": {
+        "amazon": 37.99,
+        "tackle_warehouse": 89.99,
+        "tackle_direct": 89.99,
+        "fishusa": 10.49
+      },
+      "lowest": 10.49,
+      "lowest_retailer": "fishusa",
+      "previous_lowest": 7.49,
+      "change_percent": 40.05
+    },
+    {
+      "product_id": "dobyns-fury-735c",
+      "date": "2026-04-09",
+      "prices": {
+        "amazon": 37.99,
+        "tackle_warehouse": 89.99,
+        "tackle_direct": 89.99,
+        "fishusa": 10.49
+      },
+      "lowest": 10.49,
+      "lowest_retailer": "fishusa",
+      "previous_lowest": 10.49,
+      "change_percent": null
+    },
+    {
+      "product_id": "dobyns-fury-735c",
+      "date": "2026-04-09",
+      "prices": {
+        "amazon": 37.99,
+        "tackle_warehouse": null,
+        "walmart": 11.97
+      },
+      "lowest": 11.97,
+      "lowest_retailer": "walmart",
+      "previous_lowest": 10.49,
+      "change_percent": 14.11
+    },
+    {
+      "product_id": "dobyns-fury-735c",
+      "date": "2026-04-10",
+      "prices": {
+        "tackle_warehouse": 109.0,
+        "tackle_direct": 119.99
+      },
+      "lowest": 109.0,
+      "lowest_retailer": "tackle_warehouse",
+      "previous_lowest": 11.97,
+      "change_percent": 810.61
+    },
+    {
+      "product_id": "dobyns-fury-735c",
+      "date": "2026-04-10",
+      "prices": {
+        "amazon": 149.99,
+        "tackle_warehouse": 120.0
+      },
+      "lowest": 120.0,
+      "lowest_retailer": "tackle_warehouse",
+      "previous_lowest": 109.0,
+      "change_percent": 10.09
+    },
+    {
+      "product_id": "dobyns-fury-735c",
+      "date": "2026-04-10",
+      "prices": {
+        "tackle_warehouse": 109.0,
+        "tackle_direct": 120.0
+      },
+      "lowest": 109.0,
+      "lowest_retailer": "tackle_warehouse",
+      "previous_lowest": 120.0,
+      "change_percent": -9.17,
+      "source": "perplexity"
+    }
+  ]
+}
