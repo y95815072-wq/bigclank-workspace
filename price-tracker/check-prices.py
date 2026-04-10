@@ -243,7 +243,7 @@ def main():
         # --- Tier 3: both tiers failed ---
         if prices is None:
             print(f"  *** Both tiers failed for '{name}'")
-            summary_lines.append(f"{name}: FAILED - no price found ⚠️")
+            summary_lines.append(f"{name}: FAILED - no price found [via Failed] ⚠️")
             print()
             continue
 
@@ -259,6 +259,7 @@ def main():
         if previous_lowest:
             change_percent = ((lowest_price - previous_lowest) / previous_lowest) * 100
 
+        tier_key = {"brave": "tier1_brave", "perplexity": "tier2_perplexity"}.get(source, "tier_unknown")
         history["checks"].append({
             "product_id": pid,
             "date": today,
@@ -268,6 +269,7 @@ def main():
             "previous_lowest": previous_lowest,
             "change_percent": round(change_percent, 2) if change_percent is not None else None,
             "source": source,
+            "tier": tier_key,
         })
 
         retailer_display = fmt_retailer(lowest_retailer)
@@ -277,6 +279,10 @@ def main():
             print(f" ({direction} {abs(change_percent):.1f}% from ${previous_lowest:.2f})", end="")
         print()
 
+        # Tier label and URL for alert
+        tier_label = {"brave": "via Brave", "perplexity": "via Perplexity"}.get(source, f"via {source}")
+        product_url = product.get("urls", {}).get(lowest_retailer)
+
         # Build summary line
         if change_percent is None or abs(change_percent) < threshold_pct:
             change_str = "no change"
@@ -285,7 +291,10 @@ def main():
         else:
             change_str = f"UP from ${previous_lowest:.2f} ⬆️"
 
-        summary_lines.append(f"{name}: ${lowest_price:.2f} ({retailer_display}) — {change_str}")
+        alert_line = f"{name}: ${lowest_price:.2f} ({retailer_display}) [{tier_label}] — {change_str}"
+        if product_url:
+            alert_line += f"\n  {product_url}"
+        summary_lines.append(alert_line)
 
         # Price-drop alert (console only; summary covers alerts.txt)
         if change_percent is not None and change_percent <= -threshold_pct:

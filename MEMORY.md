@@ -46,3 +46,14 @@ All pending setup items completed on 2026-04-05.
 
 ## Active Projects
 (Track ongoing work here)
+
+## Price Tracker System
+- Location: /mnt/workspace/price-tracker/
+- 3-tier system: Brave Search API → Perplexity (search.py) → Failure alert
+- Tier 1 (Brave): queries Brave Search API for retailer prices in snippets
+- Tier 2 (Perplexity): fallback via /mnt/workspace/tools/search.py
+- Tier 3: logs FAILED in alert if both tiers fail
+- Alert format: "Product: $XX.XX (Retailer) [via Brave/Perplexity/Failed] — DROP/UP from $YY.YY ⬇️/⬆️\n  URL"
+- Daily cron: 1:00pm UTC (check-prices.py) + 1:05pm UTC (alerts dispatch)
+- Old browser/Chromium scraping: REMOVED (replaced by API tiers)
+- History saved to: price-history.json | Alerts to: alerts.txt
