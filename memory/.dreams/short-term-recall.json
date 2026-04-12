@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-11T05:00:00.395Z",
+  "updatedAt": "2026-04-12T05:00:00.396Z",
   "entries": {
     "memory:memory/2026-04-08.md:1:24": {
       "key": "memory:memory/2026-04-08.md:1:24",
@@ -44,14 +44,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.395Z",
+      "lastRecalledAt": "2026-04-12T05:00:00.396Z",
       "queryHashes": [
         "4320a7af2f21"
       ],
       "recallDays": [
         "2026-04-08",
         "2026-04-09",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "tools.md",
@@ -76,14 +77,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.395Z",
+      "lastRecalledAt": "2026-04-12T05:00:00.396Z",
       "queryHashes": [
         "4320a7af2f21"
       ],
       "recallDays": [
         "2026-04-08",
         "2026-04-09",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "backup",
@@ -108,14 +110,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.395Z",
+      "lastRecalledAt": "2026-04-12T05:00:00.396Z",
       "queryHashes": [
         "4320a7af2f21"
       ],
       "recallDays": [
         "2026-04-08",
         "2026-04-09",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "mnt/workspace/tools/search.py",
@@ -140,14 +143,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.395Z",
+      "lastRecalledAt": "2026-04-12T05:00:00.396Z",
       "queryHashes": [
         "4320a7af2f21"
       ],
       "recallDays": [
         "2026-04-08",
         "2026-04-09",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "router",
@@ -172,14 +176,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.395Z",
+      "lastRecalledAt": "2026-04-12T05:00:00.396Z",
       "queryHashes": [
         "4320a7af2f21"
       ],
       "recallDays": [
         "2026-04-08",
         "2026-04-09",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "gateway",
@@ -2046,7 +2051,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.395Z",
+      "lastRecalledAt": "2026-04-12T05:00:00.396Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
@@ -2054,7 +2059,8 @@
         "2026-04-05",
         "2026-04-09",
         "2026-04-10",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "soul.md",
@@ -2079,7 +2085,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.395Z",
+      "lastRecalledAt": "2026-04-12T05:00:00.396Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
@@ -2087,7 +2093,8 @@
         "2026-04-05",
         "2026-04-09",
         "2026-04-10",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "v2.1.92",
@@ -2112,7 +2119,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.395Z",
+      "lastRecalledAt": "2026-04-12T05:00:00.396Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
@@ -2120,7 +2127,8 @@
         "2026-04-05",
         "2026-04-09",
         "2026-04-10",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "mnt/archive",
@@ -2145,7 +2153,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.395Z",
+      "lastRecalledAt": "2026-04-12T05:00:00.396Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
@@ -2153,7 +2161,8 @@
         "2026-04-05",
         "2026-04-09",
         "2026-04-10",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "backup",
@@ -2178,7 +2187,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.395Z",
+      "lastRecalledAt": "2026-04-12T05:00:00.396Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
@@ -2186,7 +2195,8 @@
         "2026-04-05",
         "2026-04-09",
         "2026-04-10",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "security-auditor",
@@ -2211,7 +2221,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.395Z",
+      "lastRecalledAt": "2026-04-12T05:00:00.396Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
@@ -2219,7 +2229,8 @@
         "2026-04-05",
         "2026-04-09",
         "2026-04-10",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "summarize-pro",
@@ -2244,7 +2255,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.395Z",
+      "lastRecalledAt": "2026-04-12T05:00:00.396Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
@@ -2252,7 +2263,8 @@
         "2026-04-05",
         "2026-04-09",
         "2026-04-10",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-12"
       ],
       "conceptTags": [
         "memory.md",
@@ -2277,7 +2289,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.395Z",
+      "lastRecalledAt": "2026-04-11T18:30:00.479Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
@@ -10234,13 +10246,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T08:00:00.414Z",
-      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-12T05:00:00.396Z",
       "queryHashes": [
         "84c029107fed"
       ],
       "recallDays": [
         "2026-04-09",
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-12"
       ],
       "conceptTags": [
         "0.96",
@@ -10265,13 +10278,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T08:00:00.414Z",
-      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-12T05:00:00.396Z",
       "queryHashes": [
         "84c029107fed"
       ],
       "recallDays": [
         "2026-04-09",
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-12"
       ],
       "conceptTags": [
         "0.86",
@@ -10296,13 +10310,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T08:00:00.414Z",
-      "lastRecalledAt": "2026-04-10T03:00:00.439Z",
+      "lastRecalledAt": "2026-04-12T05:00:00.396Z",
       "queryHashes": [
         "84c029107fed"
       ],
       "recallDays": [
         "2026-04-09",
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-12"
       ],
       "conceptTags": [
         "tools.md",
@@ -17174,13 +17189,13 @@
       "startLine": 453,
       "endLine": 456,
       "source": "memory",
-      "snippet": "Reflections: Theme: `assistant` kept surfacing across 302 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 303 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-11T05:00:00.395Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.395Z",
+      "lastRecalledAt": "2026-04-11T05:30:00.396Z",
       "queryHashes": [
         "2213b71c3c98"
       ],
@@ -17204,13 +17219,13 @@
       "startLine": 457,
       "endLine": 460,
       "source": "memory",
-      "snippet": "Reflections: Theme: `user` kept surfacing across 220 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 221 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-11T05:00:00.395Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.395Z",
+      "lastRecalledAt": "2026-04-11T05:30:00.396Z",
       "queryHashes": [
         "2213b71c3c98"
       ],
@@ -17240,12 +17255,2809 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-11T05:00:00.395Z",
-      "lastRecalledAt": "2026-04-11T05:00:00.395Z",
+      "lastRecalledAt": "2026-04-11T05:30:00.396Z",
       "queryHashes": [
         "2213b71c3c98"
       ],
       "recallDays": [
         "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:438:441": {
+      "key": "memory:memory/2026-04-11.md:438:441",
+      "path": "memory/2026-04-11.md",
+      "startLine": 438,
+      "endLine": 441,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 304 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T05:30:00.396Z",
+      "lastRecalledAt": "2026-04-11T06:00:00.399Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:442:445": {
+      "key": "memory:memory/2026-04-11.md:442:445",
+      "path": "memory/2026-04-11.md",
+      "startLine": 442,
+      "endLine": 445,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 222 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T05:30:00.396Z",
+      "lastRecalledAt": "2026-04-11T06:00:00.399Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.77",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:448:448": {
+      "key": "memory:memory/2026-04-11.md:448:448",
+      "path": "memory/2026-04-11.md",
+      "startLine": 448,
+      "endLine": 448,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T05:30:00.396Z",
+      "lastRecalledAt": "2026-04-11T06:00:00.399Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:423:426": {
+      "key": "memory:memory/2026-04-11.md:423:426",
+      "path": "memory/2026-04-11.md",
+      "startLine": 423,
+      "endLine": 426,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 305 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T06:00:00.399Z",
+      "lastRecalledAt": "2026-04-11T06:30:00.399Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:427:430": {
+      "key": "memory:memory/2026-04-11.md:427:430",
+      "path": "memory/2026-04-11.md",
+      "startLine": 427,
+      "endLine": 430,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 223 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T06:00:00.399Z",
+      "lastRecalledAt": "2026-04-11T06:30:00.399Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.77",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:433:433": {
+      "key": "memory:memory/2026-04-11.md:433:433",
+      "path": "memory/2026-04-11.md",
+      "startLine": 433,
+      "endLine": 433,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T06:00:00.399Z",
+      "lastRecalledAt": "2026-04-11T06:30:00.399Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:408:411": {
+      "key": "memory:memory/2026-04-11.md:408:411",
+      "path": "memory/2026-04-11.md",
+      "startLine": 408,
+      "endLine": 411,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 306 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T06:30:00.399Z",
+      "lastRecalledAt": "2026-04-11T07:00:00.401Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:412:415": {
+      "key": "memory:memory/2026-04-11.md:412:415",
+      "path": "memory/2026-04-11.md",
+      "startLine": 412,
+      "endLine": 415,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 224 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T06:30:00.399Z",
+      "lastRecalledAt": "2026-04-11T07:00:00.401Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.77",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:418:418": {
+      "key": "memory:memory/2026-04-11.md:418:418",
+      "path": "memory/2026-04-11.md",
+      "startLine": 418,
+      "endLine": 418,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T06:30:00.399Z",
+      "lastRecalledAt": "2026-04-11T07:00:00.401Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:393:396": {
+      "key": "memory:memory/2026-04-11.md:393:396",
+      "path": "memory/2026-04-11.md",
+      "startLine": 393,
+      "endLine": 396,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 307 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T07:00:00.401Z",
+      "lastRecalledAt": "2026-04-11T07:30:00.401Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:397:400": {
+      "key": "memory:memory/2026-04-11.md:397:400",
+      "path": "memory/2026-04-11.md",
+      "startLine": 397,
+      "endLine": 400,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 225 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T07:00:00.401Z",
+      "lastRecalledAt": "2026-04-11T07:30:00.401Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.77",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:403:403": {
+      "key": "memory:memory/2026-04-11.md:403:403",
+      "path": "memory/2026-04-11.md",
+      "startLine": 403,
+      "endLine": 403,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T07:00:00.401Z",
+      "lastRecalledAt": "2026-04-11T07:30:00.401Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:383:386": {
+      "key": "memory:memory/2026-04-11.md:383:386",
+      "path": "memory/2026-04-11.md",
+      "startLine": 383,
+      "endLine": 386,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 308 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T07:30:00.401Z",
+      "lastRecalledAt": "2026-04-11T08:00:00.404Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:387:390": {
+      "key": "memory:memory/2026-04-11.md:387:390",
+      "path": "memory/2026-04-11.md",
+      "startLine": 387,
+      "endLine": 390,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 226 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T07:30:00.401Z",
+      "lastRecalledAt": "2026-04-11T08:00:00.404Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.77",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:393:393": {
+      "key": "memory:memory/2026-04-11.md:393:393",
+      "path": "memory/2026-04-11.md",
+      "startLine": 393,
+      "endLine": 393,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T07:30:00.401Z",
+      "lastRecalledAt": "2026-04-11T08:00:00.404Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:368:371": {
+      "key": "memory:memory/2026-04-11.md:368:371",
+      "path": "memory/2026-04-11.md",
+      "startLine": 368,
+      "endLine": 371,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 309 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T08:00:00.404Z",
+      "lastRecalledAt": "2026-04-11T08:30:00.408Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:372:375": {
+      "key": "memory:memory/2026-04-11.md:372:375",
+      "path": "memory/2026-04-11.md",
+      "startLine": 372,
+      "endLine": 375,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 227 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T08:00:00.404Z",
+      "lastRecalledAt": "2026-04-11T08:30:00.408Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.77",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:378:378": {
+      "key": "memory:memory/2026-04-11.md:378:378",
+      "path": "memory/2026-04-11.md",
+      "startLine": 378,
+      "endLine": 378,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T08:00:00.404Z",
+      "lastRecalledAt": "2026-04-11T08:30:00.408Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:353:356": {
+      "key": "memory:memory/2026-04-11.md:353:356",
+      "path": "memory/2026-04-11.md",
+      "startLine": 353,
+      "endLine": 356,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 310 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T08:30:00.408Z",
+      "lastRecalledAt": "2026-04-11T09:00:00.448Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:357:360": {
+      "key": "memory:memory/2026-04-11.md:357:360",
+      "path": "memory/2026-04-11.md",
+      "startLine": 357,
+      "endLine": 360,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 228 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T08:30:00.408Z",
+      "lastRecalledAt": "2026-04-11T09:00:00.448Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.77",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:363:363": {
+      "key": "memory:memory/2026-04-11.md:363:363",
+      "path": "memory/2026-04-11.md",
+      "startLine": 363,
+      "endLine": 363,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T08:30:00.408Z",
+      "lastRecalledAt": "2026-04-11T09:00:00.448Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:338:341": {
+      "key": "memory:memory/2026-04-11.md:338:341",
+      "path": "memory/2026-04-11.md",
+      "startLine": 338,
+      "endLine": 341,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 311 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T09:00:00.448Z",
+      "lastRecalledAt": "2026-04-11T09:30:00.412Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:342:345": {
+      "key": "memory:memory/2026-04-11.md:342:345",
+      "path": "memory/2026-04-11.md",
+      "startLine": 342,
+      "endLine": 345,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 229 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T09:00:00.448Z",
+      "lastRecalledAt": "2026-04-11T09:30:00.412Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.77",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:348:348": {
+      "key": "memory:memory/2026-04-11.md:348:348",
+      "path": "memory/2026-04-11.md",
+      "startLine": 348,
+      "endLine": 348,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T09:00:00.448Z",
+      "lastRecalledAt": "2026-04-11T09:30:00.412Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:323:326": {
+      "key": "memory:memory/2026-04-11.md:323:326",
+      "path": "memory/2026-04-11.md",
+      "startLine": 323,
+      "endLine": 326,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 312 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T09:30:00.412Z",
+      "lastRecalledAt": "2026-04-11T10:00:00.414Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:327:330": {
+      "key": "memory:memory/2026-04-11.md:327:330",
+      "path": "memory/2026-04-11.md",
+      "startLine": 327,
+      "endLine": 330,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 230 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T09:30:00.412Z",
+      "lastRecalledAt": "2026-04-11T10:00:00.414Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.77",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:333:333": {
+      "key": "memory:memory/2026-04-11.md:333:333",
+      "path": "memory/2026-04-11.md",
+      "startLine": 333,
+      "endLine": 333,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T09:30:00.412Z",
+      "lastRecalledAt": "2026-04-11T10:00:00.414Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:313:316": {
+      "key": "memory:memory/2026-04-11.md:313:316",
+      "path": "memory/2026-04-11.md",
+      "startLine": 313,
+      "endLine": 316,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 313 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T10:00:00.414Z",
+      "lastRecalledAt": "2026-04-11T10:30:00.420Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:317:320": {
+      "key": "memory:memory/2026-04-11.md:317:320",
+      "path": "memory/2026-04-11.md",
+      "startLine": 317,
+      "endLine": 320,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 231 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T10:00:00.414Z",
+      "lastRecalledAt": "2026-04-11T10:30:00.420Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.77",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:323:323": {
+      "key": "memory:memory/2026-04-11.md:323:323",
+      "path": "memory/2026-04-11.md",
+      "startLine": 323,
+      "endLine": 323,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T10:00:00.414Z",
+      "lastRecalledAt": "2026-04-11T10:30:00.420Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:298:301": {
+      "key": "memory:memory/2026-04-11.md:298:301",
+      "path": "memory/2026-04-11.md",
+      "startLine": 298,
+      "endLine": 301,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 314 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T10:30:00.420Z",
+      "lastRecalledAt": "2026-04-11T11:00:00.417Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:302:305": {
+      "key": "memory:memory/2026-04-11.md:302:305",
+      "path": "memory/2026-04-11.md",
+      "startLine": 302,
+      "endLine": 305,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 232 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T10:30:00.420Z",
+      "lastRecalledAt": "2026-04-11T11:00:00.417Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.77",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:308:308": {
+      "key": "memory:memory/2026-04-11.md:308:308",
+      "path": "memory/2026-04-11.md",
+      "startLine": 308,
+      "endLine": 308,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T10:30:00.420Z",
+      "lastRecalledAt": "2026-04-11T11:00:00.417Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:283:286": {
+      "key": "memory:memory/2026-04-11.md:283:286",
+      "path": "memory/2026-04-11.md",
+      "startLine": 283,
+      "endLine": 286,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 315 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T11:00:00.417Z",
+      "lastRecalledAt": "2026-04-11T11:30:00.418Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:287:290": {
+      "key": "memory:memory/2026-04-11.md:287:290",
+      "path": "memory/2026-04-11.md",
+      "startLine": 287,
+      "endLine": 290,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 233 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T11:00:00.417Z",
+      "lastRecalledAt": "2026-04-11T11:30:00.418Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.77",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:293:293": {
+      "key": "memory:memory/2026-04-11.md:293:293",
+      "path": "memory/2026-04-11.md",
+      "startLine": 293,
+      "endLine": 293,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T11:00:00.417Z",
+      "lastRecalledAt": "2026-04-11T11:30:00.418Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:268:271": {
+      "key": "memory:memory/2026-04-11.md:268:271",
+      "path": "memory/2026-04-11.md",
+      "startLine": 268,
+      "endLine": 271,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 316 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T11:30:00.418Z",
+      "lastRecalledAt": "2026-04-11T12:00:00.424Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:272:275": {
+      "key": "memory:memory/2026-04-11.md:272:275",
+      "path": "memory/2026-04-11.md",
+      "startLine": 272,
+      "endLine": 275,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 234 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T11:30:00.418Z",
+      "lastRecalledAt": "2026-04-11T12:00:00.424Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.77",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:278:278": {
+      "key": "memory:memory/2026-04-11.md:278:278",
+      "path": "memory/2026-04-11.md",
+      "startLine": 278,
+      "endLine": 278,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T11:30:00.418Z",
+      "lastRecalledAt": "2026-04-11T12:00:00.424Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:253:256": {
+      "key": "memory:memory/2026-04-11.md:253:256",
+      "path": "memory/2026-04-11.md",
+      "startLine": 253,
+      "endLine": 256,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 317 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T12:00:00.424Z",
+      "lastRecalledAt": "2026-04-11T12:30:00.424Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:257:260": {
+      "key": "memory:memory/2026-04-11.md:257:260",
+      "path": "memory/2026-04-11.md",
+      "startLine": 257,
+      "endLine": 260,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 235 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T12:00:00.424Z",
+      "lastRecalledAt": "2026-04-11T12:30:00.424Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.77",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:263:263": {
+      "key": "memory:memory/2026-04-11.md:263:263",
+      "path": "memory/2026-04-11.md",
+      "startLine": 263,
+      "endLine": 263,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T12:00:00.424Z",
+      "lastRecalledAt": "2026-04-11T12:30:00.424Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:238:241": {
+      "key": "memory:memory/2026-04-11.md:238:241",
+      "path": "memory/2026-04-11.md",
+      "startLine": 238,
+      "endLine": 241,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 318 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T12:30:00.424Z",
+      "lastRecalledAt": "2026-04-11T13:00:00.426Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:242:245": {
+      "key": "memory:memory/2026-04-11.md:242:245",
+      "path": "memory/2026-04-11.md",
+      "startLine": 242,
+      "endLine": 245,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 236 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T12:30:00.424Z",
+      "lastRecalledAt": "2026-04-11T13:00:00.426Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.77",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:248:248": {
+      "key": "memory:memory/2026-04-11.md:248:248",
+      "path": "memory/2026-04-11.md",
+      "startLine": 248,
+      "endLine": 248,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T12:30:00.424Z",
+      "lastRecalledAt": "2026-04-11T13:00:00.426Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:228:231": {
+      "key": "memory:memory/2026-04-11.md:228:231",
+      "path": "memory/2026-04-11.md",
+      "startLine": 228,
+      "endLine": 231,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 319 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T13:00:00.426Z",
+      "lastRecalledAt": "2026-04-11T13:30:00.425Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:232:235": {
+      "key": "memory:memory/2026-04-11.md:232:235",
+      "path": "memory/2026-04-11.md",
+      "startLine": 232,
+      "endLine": 235,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 237 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T13:00:00.426Z",
+      "lastRecalledAt": "2026-04-11T13:30:00.425Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.77",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:238:238": {
+      "key": "memory:memory/2026-04-11.md:238:238",
+      "path": "memory/2026-04-11.md",
+      "startLine": 238,
+      "endLine": 238,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T13:00:00.426Z",
+      "lastRecalledAt": "2026-04-11T13:30:00.425Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:213:216": {
+      "key": "memory:memory/2026-04-11.md:213:216",
+      "path": "memory/2026-04-11.md",
+      "startLine": 213,
+      "endLine": 216,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 320 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T13:30:00.425Z",
+      "lastRecalledAt": "2026-04-11T14:00:00.425Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:217:220": {
+      "key": "memory:memory/2026-04-11.md:217:220",
+      "path": "memory/2026-04-11.md",
+      "startLine": 217,
+      "endLine": 220,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 238 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T13:30:00.425Z",
+      "lastRecalledAt": "2026-04-11T14:00:00.425Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.77",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:223:223": {
+      "key": "memory:memory/2026-04-11.md:223:223",
+      "path": "memory/2026-04-11.md",
+      "startLine": 223,
+      "endLine": 223,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T13:30:00.425Z",
+      "lastRecalledAt": "2026-04-11T14:00:00.425Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:203:206": {
+      "key": "memory:memory/2026-04-11.md:203:206",
+      "path": "memory/2026-04-11.md",
+      "startLine": 203,
+      "endLine": 206,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 321 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T14:00:00.425Z",
+      "lastRecalledAt": "2026-04-11T14:30:00.428Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:207:210": {
+      "key": "memory:memory/2026-04-11.md:207:210",
+      "path": "memory/2026-04-11.md",
+      "startLine": 207,
+      "endLine": 210,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 239 memories.; confidence: 0.76; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T14:00:00.425Z",
+      "lastRecalledAt": "2026-04-11T14:30:00.428Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.76",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:213:213": {
+      "key": "memory:memory/2026-04-11.md:213:213",
+      "path": "memory/2026-04-11.md",
+      "startLine": 213,
+      "endLine": 213,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T14:00:00.425Z",
+      "lastRecalledAt": "2026-04-11T14:30:00.428Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:193:196": {
+      "key": "memory:memory/2026-04-11.md:193:196",
+      "path": "memory/2026-04-11.md",
+      "startLine": 193,
+      "endLine": 196,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 322 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T14:30:00.428Z",
+      "lastRecalledAt": "2026-04-11T15:00:00.433Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:197:200": {
+      "key": "memory:memory/2026-04-11.md:197:200",
+      "path": "memory/2026-04-11.md",
+      "startLine": 197,
+      "endLine": 200,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 240 memories.; confidence: 0.76; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T14:30:00.428Z",
+      "lastRecalledAt": "2026-04-11T15:00:00.433Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.76",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:203:203": {
+      "key": "memory:memory/2026-04-11.md:203:203",
+      "path": "memory/2026-04-11.md",
+      "startLine": 203,
+      "endLine": 203,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T14:30:00.428Z",
+      "lastRecalledAt": "2026-04-11T15:00:00.433Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:178:181": {
+      "key": "memory:memory/2026-04-11.md:178:181",
+      "path": "memory/2026-04-11.md",
+      "startLine": 178,
+      "endLine": 181,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 323 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T15:00:00.433Z",
+      "lastRecalledAt": "2026-04-11T15:30:00.469Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:182:185": {
+      "key": "memory:memory/2026-04-11.md:182:185",
+      "path": "memory/2026-04-11.md",
+      "startLine": 182,
+      "endLine": 185,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 241 memories.; confidence: 0.76; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T15:00:00.433Z",
+      "lastRecalledAt": "2026-04-11T15:30:00.469Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.76",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:188:188": {
+      "key": "memory:memory/2026-04-11.md:188:188",
+      "path": "memory/2026-04-11.md",
+      "startLine": 188,
+      "endLine": 188,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T15:00:00.433Z",
+      "lastRecalledAt": "2026-04-11T15:30:00.469Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:163:166": {
+      "key": "memory:memory/2026-04-11.md:163:166",
+      "path": "memory/2026-04-11.md",
+      "startLine": 163,
+      "endLine": 166,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 324 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T15:30:00.469Z",
+      "lastRecalledAt": "2026-04-11T16:00:00.436Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:167:170": {
+      "key": "memory:memory/2026-04-11.md:167:170",
+      "path": "memory/2026-04-11.md",
+      "startLine": 167,
+      "endLine": 170,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 242 memories.; confidence: 0.76; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T15:30:00.469Z",
+      "lastRecalledAt": "2026-04-11T16:00:00.436Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.76",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:173:173": {
+      "key": "memory:memory/2026-04-11.md:173:173",
+      "path": "memory/2026-04-11.md",
+      "startLine": 173,
+      "endLine": 173,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T15:30:00.469Z",
+      "lastRecalledAt": "2026-04-11T16:00:00.436Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:148:151": {
+      "key": "memory:memory/2026-04-11.md:148:151",
+      "path": "memory/2026-04-11.md",
+      "startLine": 148,
+      "endLine": 151,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 325 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T16:00:00.436Z",
+      "lastRecalledAt": "2026-04-11T16:30:00.435Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:152:155": {
+      "key": "memory:memory/2026-04-11.md:152:155",
+      "path": "memory/2026-04-11.md",
+      "startLine": 152,
+      "endLine": 155,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 243 memories.; confidence: 0.76; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T16:00:00.436Z",
+      "lastRecalledAt": "2026-04-11T16:30:00.435Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.76",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:158:158": {
+      "key": "memory:memory/2026-04-11.md:158:158",
+      "path": "memory/2026-04-11.md",
+      "startLine": 158,
+      "endLine": 158,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T16:00:00.436Z",
+      "lastRecalledAt": "2026-04-11T16:30:00.435Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:133:136": {
+      "key": "memory:memory/2026-04-11.md:133:136",
+      "path": "memory/2026-04-11.md",
+      "startLine": 133,
+      "endLine": 136,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 326 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T16:30:00.435Z",
+      "lastRecalledAt": "2026-04-11T17:00:00.442Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:137:140": {
+      "key": "memory:memory/2026-04-11.md:137:140",
+      "path": "memory/2026-04-11.md",
+      "startLine": 137,
+      "endLine": 140,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 244 memories.; confidence: 0.76; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T16:30:00.435Z",
+      "lastRecalledAt": "2026-04-11T17:00:00.442Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.76",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:143:143": {
+      "key": "memory:memory/2026-04-11.md:143:143",
+      "path": "memory/2026-04-11.md",
+      "startLine": 143,
+      "endLine": 143,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T16:30:00.435Z",
+      "lastRecalledAt": "2026-04-11T17:00:00.442Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:118:121": {
+      "key": "memory:memory/2026-04-11.md:118:121",
+      "path": "memory/2026-04-11.md",
+      "startLine": 118,
+      "endLine": 121,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 327 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T17:00:00.442Z",
+      "lastRecalledAt": "2026-04-11T17:30:00.442Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:122:125": {
+      "key": "memory:memory/2026-04-11.md:122:125",
+      "path": "memory/2026-04-11.md",
+      "startLine": 122,
+      "endLine": 125,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 245 memories.; confidence: 0.76; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T17:00:00.442Z",
+      "lastRecalledAt": "2026-04-11T17:30:00.442Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.76",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:128:128": {
+      "key": "memory:memory/2026-04-11.md:128:128",
+      "path": "memory/2026-04-11.md",
+      "startLine": 128,
+      "endLine": 128,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T17:00:00.442Z",
+      "lastRecalledAt": "2026-04-11T17:30:00.442Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:103:106": {
+      "key": "memory:memory/2026-04-11.md:103:106",
+      "path": "memory/2026-04-11.md",
+      "startLine": 103,
+      "endLine": 106,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 328 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T17:30:00.442Z",
+      "lastRecalledAt": "2026-04-11T18:00:00.444Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:107:110": {
+      "key": "memory:memory/2026-04-11.md:107:110",
+      "path": "memory/2026-04-11.md",
+      "startLine": 107,
+      "endLine": 110,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 246 memories.; confidence: 0.76; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T17:30:00.442Z",
+      "lastRecalledAt": "2026-04-11T18:00:00.444Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "0.76",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:113:113": {
+      "key": "memory:memory/2026-04-11.md:113:113",
+      "path": "memory/2026-04-11.md",
+      "startLine": 113,
+      "endLine": 113,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T17:30:00.442Z",
+      "lastRecalledAt": "2026-04-11T18:00:00.444Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-11.md:98:101": {
+      "key": "memory:memory/2026-04-11.md:98:101",
+      "path": "memory/2026-04-11.md",
+      "startLine": 98,
+      "endLine": 101,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 329 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T18:00:00.444Z",
+      "lastRecalledAt": "2026-04-12T03:00:00.426Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:102:105": {
+      "key": "memory:memory/2026-04-11.md:102:105",
+      "path": "memory/2026-04-11.md",
+      "startLine": 102,
+      "endLine": 105,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 247 memories.; confidence: 0.76; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T18:00:00.444Z",
+      "lastRecalledAt": "2026-04-12T03:00:00.426Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "0.76",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-11.md:108:108": {
+      "key": "memory:memory/2026-04-11.md:108:108",
+      "path": "memory/2026-04-11.md",
+      "startLine": 108,
+      "endLine": 108,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-11T18:00:00.444Z",
+      "lastRecalledAt": "2026-04-12T03:00:00.426Z",
+      "queryHashes": [
+        "2213b71c3c98"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-11 03:00:00 UTC] __openclaw_memory_core_short_term_promotion_dream__ A new session was started via /new or /reset. Run your Session Startup sequence - read the required files before responding to the user. Then greet the user in your configured persona, if",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T03:00:00.426Z",
+      "lastRecalledAt": "2026-04-12T03:00:00.426Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "user",
+        "system",
+        "utc",
+        "new",
+        "was",
+        "started",
+        "via",
+        "reset"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: I'm back. Got the essentials loaded — I remember the price tracker work, the Claude Code saga, and the GitHub backup running. What's on your mind?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T03:00:00.426Z",
+      "lastRecalledAt": "2026-04-12T03:00:00.426Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "backup",
+        "assistant",
+        "i'm",
+        "back",
+        "got",
+        "the",
+        "essentials",
+        "loaded"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"758\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Sat 2026-04-11 19:00 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Add t",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T03:00:00.426Z",
+      "lastRecalledAt": "2026-04-12T03:00:00.426Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: OpenRouter model ID is `google/gemma-4-26b-a4b-it`. Let me get the current config to add it properly.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T03:00:00.426Z",
+      "lastRecalledAt": "2026-04-12T03:00:00.426Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "router",
+        "google/gemma-4-26b-a4b-it",
+        "assistant",
+        "openrouter",
+        "model",
+        "google",
+        "gemma",
+        "26b"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: Done. Added `openrouter/google/gemma-4-26b-a4b-it` (alias: `gemma`) to the whitelist and set it as the default primary model. Need a gateway restart to apply — I'll go silent for a sec when it happens. Want me to restart now?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T03:00:00.426Z",
+      "lastRecalledAt": "2026-04-12T03:00:00.426Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "gateway",
+        "router",
+        "assistant",
+        "done",
+        "added",
+        "openrouter",
+        "google",
+        "gemma"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"763\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Sat 2026-04-11 19:02 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Hi",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T03:00:00.426Z",
+      "lastRecalledAt": "2026-04-12T03:00:00.426Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: Hi. Ready to work. What's up?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T03:00:00.426Z",
+      "lastRecalledAt": "2026-04-12T03:00:00.426Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "ready",
+        "what's"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"765\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Sat 2026-04-11 19:24 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Ok re",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T03:00:00.426Z",
+      "lastRecalledAt": "2026-04-12T03:00:00.426Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-11.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-11.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-04-11.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: Since you want a critical look, I'll skip the \"everything's great\" part and tell you exactly where the weak points and debt are. ### 1. The \"Fragile\" Layer (Configuration & Auth) * **Claude Code Debt:** This is your biggest current headache. The server isn't authentica",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-12T03:00:00.426Z",
+      "lastRecalledAt": "2026-04-12T03:00:00.426Z",
+      "queryHashes": [
+        "df528490b855"
+      ],
+      "recallDays": [
+        "2026-04-11",
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "assistant",
+        "you",
+        "want",
+        "critical",
+        "look",
+        "i'll",
+        "skip",
+        "the"
+      ]
+    },
+    "memory:memory/2026-04-12.md:138:141": {
+      "key": "memory:memory/2026-04-12.md:138:141",
+      "path": "memory/2026-04-12.md",
+      "startLine": 138,
+      "endLine": 141,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 334 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T03:30:00.401Z",
+      "lastRecalledAt": "2026-04-12T03:30:00.401Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:142:145": {
+      "key": "memory:memory/2026-04-12.md:142:145",
+      "path": "memory/2026-04-12.md",
+      "startLine": 142,
+      "endLine": 145,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 251 memories.; confidence: 0.76; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T03:30:00.401Z",
+      "lastRecalledAt": "2026-04-12T03:30:00.401Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "0.76",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:148:148": {
+      "key": "memory:memory/2026-04-12.md:148:148",
+      "path": "memory/2026-04-12.md",
+      "startLine": 148,
+      "endLine": 148,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T03:30:00.401Z",
+      "lastRecalledAt": "2026-04-12T03:30:00.401Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-12.md:168:171": {
+      "key": "memory:memory/2026-04-12.md:168:171",
+      "path": "memory/2026-04-12.md",
+      "startLine": 168,
+      "endLine": 171,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 336 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T03:30:00.401Z",
+      "lastRecalledAt": "2026-04-12T05:00:00.396Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:172:175": {
+      "key": "memory:memory/2026-04-12.md:172:175",
+      "path": "memory/2026-04-12.md",
+      "startLine": 172,
+      "endLine": 175,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 253 memories.; confidence: 0.76; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T03:30:00.401Z",
+      "lastRecalledAt": "2026-04-12T05:00:00.396Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "0.76",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:178:178": {
+      "key": "memory:memory/2026-04-12.md:178:178",
+      "path": "memory/2026-04-12.md",
+      "startLine": 178,
+      "endLine": 178,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T03:30:00.401Z",
+      "lastRecalledAt": "2026-04-12T05:00:00.396Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
       ],
       "conceptTags": [
         "tools.md",
