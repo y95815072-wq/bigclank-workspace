@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-13T05:00:00.430Z",
+  "updatedAt": "2026-04-14T05:00:00.471Z",
   "entries": {
     "memory:memory/2026-04-08.md:1:24": {
       "key": "memory:memory/2026-04-08.md:1:24",
@@ -44,7 +44,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-13T05:00:00.430Z",
+      "lastRecalledAt": "2026-04-14T05:00:00.471Z",
       "queryHashes": [
         "4320a7af2f21"
       ],
@@ -53,7 +53,8 @@
         "2026-04-09",
         "2026-04-11",
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ],
       "conceptTags": [
         "tools.md",
@@ -78,7 +79,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-13T05:00:00.430Z",
+      "lastRecalledAt": "2026-04-14T05:00:00.471Z",
       "queryHashes": [
         "4320a7af2f21"
       ],
@@ -87,7 +88,8 @@
         "2026-04-09",
         "2026-04-11",
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ],
       "conceptTags": [
         "backup",
@@ -112,7 +114,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-13T05:00:00.430Z",
+      "lastRecalledAt": "2026-04-14T05:00:00.471Z",
       "queryHashes": [
         "4320a7af2f21"
       ],
@@ -121,7 +123,8 @@
         "2026-04-09",
         "2026-04-11",
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ],
       "conceptTags": [
         "mnt/workspace/tools/search.py",
@@ -146,7 +149,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-13T05:00:00.430Z",
+      "lastRecalledAt": "2026-04-14T05:00:00.471Z",
       "queryHashes": [
         "4320a7af2f21"
       ],
@@ -155,7 +158,8 @@
         "2026-04-09",
         "2026-04-11",
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ],
       "conceptTags": [
         "router",
@@ -180,7 +184,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T03:00:00.465Z",
-      "lastRecalledAt": "2026-04-13T05:00:00.430Z",
+      "lastRecalledAt": "2026-04-14T05:00:00.471Z",
       "queryHashes": [
         "4320a7af2f21"
       ],
@@ -189,7 +193,8 @@
         "2026-04-09",
         "2026-04-11",
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ],
       "conceptTags": [
         "gateway",
@@ -10251,7 +10256,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T08:00:00.414Z",
-      "lastRecalledAt": "2026-04-13T05:00:00.430Z",
+      "lastRecalledAt": "2026-04-14T05:00:00.471Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -10259,7 +10264,8 @@
         "2026-04-09",
         "2026-04-10",
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ],
       "conceptTags": [
         "0.96",
@@ -10284,7 +10290,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T08:00:00.414Z",
-      "lastRecalledAt": "2026-04-13T05:00:00.430Z",
+      "lastRecalledAt": "2026-04-14T05:00:00.471Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -10292,7 +10298,8 @@
         "2026-04-09",
         "2026-04-10",
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ],
       "conceptTags": [
         "0.86",
@@ -10317,7 +10324,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-09T08:00:00.414Z",
-      "lastRecalledAt": "2026-04-13T05:00:00.430Z",
+      "lastRecalledAt": "2026-04-14T05:00:00.471Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -10325,7 +10332,8 @@
         "2026-04-09",
         "2026-04-10",
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ],
       "conceptTags": [
         "tools.md",
@@ -14564,14 +14572,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T08:00:00.413Z",
-      "lastRecalledAt": "2026-04-13T05:00:00.430Z",
+      "lastRecalledAt": "2026-04-14T05:00:00.471Z",
       "queryHashes": [
         "ed3026e16517"
       ],
       "recallDays": [
         "2026-04-10",
         "2026-04-11",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ],
       "conceptTags": [
         "0.99",
@@ -14596,14 +14605,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T08:00:00.413Z",
-      "lastRecalledAt": "2026-04-13T05:00:00.430Z",
+      "lastRecalledAt": "2026-04-14T05:00:00.471Z",
       "queryHashes": [
         "ed3026e16517"
       ],
       "recallDays": [
         "2026-04-10",
         "2026-04-11",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ],
       "conceptTags": [
         "0.83",
@@ -14628,14 +14638,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T08:00:00.413Z",
-      "lastRecalledAt": "2026-04-13T05:00:00.430Z",
+      "lastRecalledAt": "2026-04-14T05:00:00.471Z",
       "queryHashes": [
         "ed3026e16517"
       ],
       "recallDays": [
         "2026-04-10",
         "2026-04-11",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ],
       "conceptTags": [
         "tools.md",
@@ -19546,13 +19557,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-11T18:00:00.444Z",
-      "lastRecalledAt": "2026-04-12T03:00:00.426Z",
+      "lastRecalledAt": "2026-04-14T05:00:00.471Z",
       "queryHashes": [
         "2213b71c3c98"
       ],
       "recallDays": [
         "2026-04-11",
-        "2026-04-12"
+        "2026-04-12",
+        "2026-04-14"
       ],
       "conceptTags": [
         "1.00",
@@ -19577,13 +19589,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-11T18:00:00.444Z",
-      "lastRecalledAt": "2026-04-12T03:00:00.426Z",
+      "lastRecalledAt": "2026-04-14T05:00:00.471Z",
       "queryHashes": [
         "2213b71c3c98"
       ],
       "recallDays": [
         "2026-04-11",
-        "2026-04-12"
+        "2026-04-12",
+        "2026-04-14"
       ],
       "conceptTags": [
         "0.76",
@@ -19608,13 +19621,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-11T18:00:00.444Z",
-      "lastRecalledAt": "2026-04-12T03:00:00.426Z",
+      "lastRecalledAt": "2026-04-14T05:00:00.471Z",
       "queryHashes": [
         "2213b71c3c98"
       ],
       "recallDays": [
         "2026-04-11",
-        "2026-04-12"
+        "2026-04-12",
+        "2026-04-14"
       ],
       "conceptTags": [
         "tools.md",
@@ -20186,12 +20200,13 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T00:30:00.466Z",
-      "lastRecalledAt": "2026-04-13T05:00:00.430Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
       "recallDays": [
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ],
       "conceptTags": [
         "1.00",
@@ -20216,12 +20231,13 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T00:30:00.466Z",
-      "lastRecalledAt": "2026-04-13T05:00:00.430Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
       "recallDays": [
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
       ],
       "conceptTags": [
         "0.76",
@@ -20246,12 +20262,807 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T00:30:00.466Z",
-      "lastRecalledAt": "2026-04-13T05:00:00.430Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
       "recallDays": [
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: System: [2026-04-12 03:00:00 UTC] __openclaw_memory_core_short_term_promotion_dream__ Conversation info (untrusted metadata): ```json { \"message_id\": \"773\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Mon 2026-04-13 13:44 UTC\" } ``` Sender (untrusted metadata)",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T03:00:00.462Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "system",
+        "utc",
+        "conversation",
+        "info",
+        "untrusted"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: The OpenClaw dashboard is running on port **18789**. I tested accessibility at the Tailscale IP (`100.112.160.53:18789`), but the connection was refused. This is because the dashboard is currently bound to `127.0.0.1` (localhost) only. **Status:** * **Port:** 18789 * *",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T03:00:00.462Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "100.112.160.53",
+        "127.0.0.1",
+        "assistant",
+        "the",
+        "openclaw",
+        "dashboard",
+        "running",
+        "tested"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: System (untrusted): [2026-04-13 13:45:26 UTC] Exec completed (wild-tid, code 0) :: ttp://127.0.0.1:18789/#token=94846d…f0de Copy to clipboard unavailable. No GUI detected. Open from your computer: ssh -N -L 18789:127.0.0.1:18… Read HEARTBEAT.md if it exists (workspace conte",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T03:00:00.462Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "wild-tid",
+        "127.0.0.1",
+        "heartbeat.md",
+        "user",
+        "system",
+        "untrusted",
+        "utc",
+        "exec"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T03:00:00.462Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"775\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Mon 2026-04-13 13:47 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Chang",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T03:00:00.462Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: I've updated the config to bind to `100.112.160.53` instead of `loopback`. However, there's a catch: the `lsof` check shows that the `openclaw-gateway` process is the one actually listening on port 18789 and it's currently bound to `localhost`. Because the dashboard is",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T03:00:00.462Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "gateway",
+        "100.112.160.53",
+        "openclaw-gateway",
+        "assistant",
+        "i've",
+        "updated",
+        "the",
+        "config"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"777\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Mon 2026-04-13 14:24 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Fix t",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T03:00:00.462Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"777\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Mon 2026-04-13 14:24 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Fix t",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T03:00:00.462Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: The gateway restart was successful, and I've confirmed the dashboard is now accessible via Tailscale at `100.112.160.53:18789` (received a `200 OK`). The `gateway.bind` is correctly set to `tailnet`. What's next?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T03:00:00.462Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "gateway",
+        "100.112.160.53",
+        "gateway.bind",
+        "assistant",
+        "the",
+        "restart",
+        "was",
+        "successful"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"778\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Mon 2026-04-13 14:25 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Fix t",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T03:00:00.462Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: I've already completed that sequence. 1. **Set bind to `tailnet`**: Done. 2. **Verified config**: `gateway.bind` is `tailnet` and JSON is valid. 3. **Restarted gateway**: Done. 4. **Confirmed accessibility**: `curl` returned `200 OK` at `100.112.160.53:18789`. Everythi",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T03:00:00.462Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "gateway",
+        "gateway.bind",
+        "100.112.160.53",
+        "assistant",
+        "i've",
+        "already",
+        "completed",
+        "sequence"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"779\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Mon 2026-04-13 14:28 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Fix t",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T03:00:00.462Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "Assistant: I've already completed this. 1. **Config updated**: `gateway.bind` is `tailnet`. 2. **Validation**: Config is valid and `curl` to `100.112.160.53:18789` returned `200 OK`. 3. **Restart**: The gateway was restarted. The dashboard is accessible on your Tailscale IP. What",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T03:00:00.462Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "gateway",
+        "gateway.bind",
+        "100.112.160.53",
+        "assistant",
+        "i've",
+        "already",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"780\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Mon 2026-04-13 16:05 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Fix t",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T03:00:00.462Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: I've confirmed it again: everything is correct. 1. **Binding**: `gateway.bind` is set to `tailnet`. 2. **Config**: Validated and intact. 3. **Accessibility**: `curl` to `100.112.160.53:18789` returned `200 OK`. The dashboard is live on your Tailscale IP. What's the nex",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T03:00:00.462Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "gateway",
+        "gateway.bind",
+        "100.112.160.53",
+        "assistant",
+        "i've",
+        "confirmed",
+        "everything",
+        "correct"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"785\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Mon 2026-04-13 20:33 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Run t",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T03:00:00.462Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"786\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Mon 2026-04-13 21:29 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` What",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T03:00:00.462Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: You should use the Tailscale IP URL: **`http://100.112.160.53:18789`** Since we just updated the `allowedOrigins` to permit this specific address, your phone should be able to connect and interact with the dashboard without CORS (Cross-Origin Resource Sharing) errors.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T03:00:00.462Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "100.112.160.53",
+        "cross-origin",
+        "assistant",
+        "you",
+        "use",
+        "the",
+        "tailscale",
+        "url"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"788\", \"sender_id\": \"8684890927\", \"sender\": \"T C\", \"timestamp\": \"Mon 2026-04-13 21:32 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"T C (8684890927)\", \"id\": \"8684890927\", \"name\": \"T C\" } ``` Enabl",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T03:00:00.462Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Assistant: The machine's Tailscale hostname is `bigclank`. Since Tailscale certs require a full Tailscale domain name (not just the hostname), I'll try to run the command using the likely full domain format: `sudo tailscale cert bigclank.tail1234.ts.net` (or whatever the full dom",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-14T03:00:00.462Z",
+      "lastRecalledAt": "2026-04-14T03:00:00.462Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13",
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "bigclank.tail1234.ts.net",
+        "assistant",
+        "the",
+        "machine's",
+        "tailscale",
+        "hostname",
+        "bigclank",
+        "certs"
+      ]
+    },
+    "memory:memory/2026-04-14.md:283:286": {
+      "key": "memory:memory/2026-04-14.md:283:286",
+      "path": "memory/2026-04-14.md",
+      "startLine": 283,
+      "endLine": 286,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 347 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-14T03:30:00.449Z",
+      "lastRecalledAt": "2026-04-14T03:30:00.449Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-14.md:287:290": {
+      "key": "memory:memory/2026-04-14.md:287:290",
+      "path": "memory/2026-04-14.md",
+      "startLine": 287,
+      "endLine": 290,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 266 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-14T03:30:00.449Z",
+      "lastRecalledAt": "2026-04-14T03:30:00.449Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "0.77",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-14.md:293:293": {
+      "key": "memory:memory/2026-04-14.md:293:293",
+      "path": "memory/2026-04-14.md",
+      "startLine": 293,
+      "endLine": 293,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-14T03:30:00.449Z",
+      "lastRecalledAt": "2026-04-14T03:30:00.449Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "tools.md",
+        "openclaw.json",
+        "2026.4.8",
+        "possible",
+        "lasting",
+        "truths",
+        "completed",
+        "config"
+      ]
+    },
+    "memory:memory/2026-04-14.md:298:301": {
+      "key": "memory:memory/2026-04-14.md:298:301",
+      "path": "memory/2026-04-14.md",
+      "startLine": 298,
+      "endLine": 301,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 349 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:2-2, memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-14T03:30:00.449Z",
+      "lastRecalledAt": "2026-04-14T05:00:00.471Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-14.md:302:305": {
+      "key": "memory:memory/2026-04-14.md:302:305",
+      "path": "memory/2026-04-14.md",
+      "startLine": 302,
+      "endLine": 305,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 268 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-07.txt:1-1, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:9-9; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-14T03:30:00.449Z",
+      "lastRecalledAt": "2026-04-14T05:00:00.471Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "0.77",
+        "1-1",
+        "4-4",
+        "9-9",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-14.md:308:308": {
+      "key": "memory:memory/2026-04-14.md:308:308",
+      "path": "memory/2026-04-14.md",
+      "startLine": 308,
+      "endLine": 308,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: # 2026-04-08 - Session Notes ## Completed Today ### Config Updates - Added Claude Code rule to TOOLS.md - Model whitelist: 12 models configured in openclaw.json - Memory dreaming plugin enabled (runs 3am daily) - OpenClaw updated to 2026.4.8 ### GitHub Ba",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-14T03:30:00.449Z",
+      "lastRecalledAt": "2026-04-14T05:00:00.471Z",
+      "queryHashes": [
+        "11d1361acb2d"
+      ],
+      "recallDays": [
+        "2026-04-14"
       ],
       "conceptTags": [
         "tools.md",
